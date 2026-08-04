@@ -1,0 +1,932 @@
+[
+  {
+    "date": "2026-07-01",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": 49,
+    "sleepScore": 71,
+    "sleepMin": 336,
+    "steps": 10379,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": 2.84,
+    "strengthVol": null,
+    "runs": [],
+    "raw": "master summary for **July 1st**\n### Diet & Supplementation\n * **Breakfast:** 3 eggs omelette + 1 paratha\n * **Lunch:** 1 serving of rice and gravy with some veggies\n * **Dinner:** Paneer tikka + 3 Thai spring rolls + some papdi chaat\n * **Supplements:** None reported today\n### Activity & Health Metrics\n * **Total Steps:** 10,379 steps (103% of 10,000 goal, 178-Day Goal Streak!)\n * **Total Calories Burned:** 2,187 Cal (353 Active vs. 1,834 Resting)\n * **Heart Rate:** 50 bpm Resting / 112 bpm Daily High\n * **HRV Status:** Balanced (7d Avg: 49 ms, Overnight Avg: 47 ms)\n   * *Watch Insight:* \"Excellent! Keeping your HRV status balanced with both training and recovery can lead to improved overall health.\"\n * **Body Battery:** High: --, Low: --, Change: +59\n * **Respiration:** 16 brpm Average / 11 brpm Lowest\n### Sleep Summary\n * **Sleep Score:** 71 (Fair Quality)\n * **Total Nighttime Sleep Duration:** 5h 36m\n * **Watch Insight:* \"Shorter than ideal, plenty of deep. Your sleep was a bit short, but you had good deep sleep. You had a relaxing period before getting to sleep yesterday. Those habits will help improve your sleep quality.\"\n * **Sleep Stages:** Deep: 1h 42m, Light: 2h 58m, REM: 56m, Awake: 8m\n * **Avg Overnight Heart Rate:** 53 bpm\n### Detailed Daily Activities\n#### Activity 1: Bengaluru Walking (Early Afternoon)\n * **Distance:** 1.02 km\n * **Total Time:** 10:40\n * **Avg Pace:** 10:30 /km\n * **Avg Heart Rate:** 99 bpm\n * **Total Calories:** 70 Cal\n#### Activity 2: Walking (Late Afternoon)\n * **Distance:** 1.17 km\n * **Total Time:** 16:03\n * **Avg Pace:** 13:40 /km\n * **Avg Heart Rate:** 94 bpm\n * **Total Calories:** 68 Cal\n#### Activity 3: Walking (Early Evening)\n * **Distance:** 0.65 km\n * **Total Time:** 10:59\n * **Avg Pace:** 16:51 /km\n * **Avg Heart Rate:** 88 bpm\n * **Total Calories:** 44 Cal\n\nHad a very busy day at work, followed by some light unwinding with colleagues. Just about managed 10k steps and that's about it.\n\n---\n\n## 2026-07-02\n\n### Entry 1"
+  },
+  {
+    "date": "2026-07-02",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": 48,
+    "sleepScore": 65,
+    "sleepMin": 295,
+    "steps": 13095,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": 2.02,
+    "strengthVol": null,
+    "runs": [
+      {
+        "distance": 3.02,
+        "avgPace": "5:46",
+        "avgPaceSec": 346,
+        "avgHr": null,
+        "maxHr": null,
+        "calories": 233,
+        "time": "17:27",
+        "laps": [
+          {
+            "n": 1,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 2,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 3,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 4,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          }
+        ]
+      }
+    ],
+    "raw": "master summary for **July 2nd**\n### Diet & Supplementation\n * **Breakfast:** Dosa\n * **Lunch:** Burger\n * **Dinner:** 3 eggs omelette + cucumber and carrot salad\n * **Supplements:** Omega 3 (x1), Magnesium Glycinate (x1)\n### Activity & Health Metrics\n * **Total Steps:** 13,095 steps (130% of 10,000 goal, 179-Day Goal Streak!)\n * **Total Calories Burned:** 2,471 Cal (627 Active vs. 1,844 Resting)\n * **Heart Rate:** 49 bpm Resting / 172 bpm Daily High\n * **HRV Status:** Balanced (7d Avg: 48 ms, Overnight Avg: 46 ms)\n   * *Watch Insight:* \"Your HRV looks good! Balanced HRV status indicates that your training load and recovery are in symmetry.\"\n * **Body Battery:** Change: +48\n * **Respiration:** 15 brpm Average / 11 brpm Lowest\n * **Floors:** 12 Climbed / 13 Descended\n### Sleep Summary\n * **Sleep Score:** 65 (Fair Quality)\n * **Total Nighttime Sleep Duration:** 4h 55m\n * **Watch Insight:** \"Short, plenty of REM. Your sleep was short, but you had a refreshing amount of REM sleep.\"\n * **Sleep Stages:** Deep: 1h 40m, Light: 2h 4m, REM: 1h 11m, Awake: 8m\n * **Avg Overnight Heart Rate:** 54 bpm\n### Detailed Daily Activities\n#### Activity 1: Bengaluru Walking (Evening - 16:59)\n * **Distance:** 2.02 km\n * **Total Time:** 17:05 (Lap details state 17:05.2)\n * **Avg Pace:** 8:28 /km (Best Pace: 4:29 /km)\n * **Heart Rate:** 122 bpm Avg / 139 bpm Max\n * **Cadence:** 125 spm Avg / 222 spm Max\n * **Total Calories:** 141 Cal\n * **Elevation:** 911 m Min / 917 m Max\n * **Time in Heart Rate Zones:** Zone 2 (Easy): 11:18 (66%), Zone 3 (Aerobic): 5:10 (30%), Zone 1 (Warm Up): 0:37 (3%)\n * **Lap Splits:**\n   * **Lap 1:** 1.00 km | 8:46.8 | 8:47 avg pace | 6.8 km/h avg speed | 11.3 km/h max speed | 119 avg HR | 133 max HR | 119 avg cadence | 222 max cadence | 70 Cal\n   * **Lap 2:** 1.00 km | 8:09.0 | 8:09 avg pace | 7.4 km/h avg speed | 13.4 km/h max speed | 126 avg HR | 139 max HR | 134 avg cadence | 167 max cadence | 70 Cal\n   * **Lap 3:** 0.02 km | 0:09.4 | 8:24 avg pace | 7.1 km/h avg speed | 8.2 km/h max speed | 114 avg HR | 114 max HR | 64 avg cadence | 143 max cadence | 1 Cal\n#### Activity 2: Bengaluru Running (Evening - 17:17)\n * **Distance:** 3.02 km\n * **Total Time:** 17:27 (Lap details state 17:26.7)\n * **Avg Pace:** 5:46 /km (Best Pace: 4:38 /km)\n * **Heart Rate:** 161 bpm Avg / 172 bpm Max\n * **Run Cadence:** 172 spm Avg / 181 spm Max\n * **Total Calories:** 233 Cal\n * **Avg Ground Contact Time (GCT):** 252 ms\n * **Avg Stride Length:** 1.03 m\n * **Vertical Oscillation:** 8.7 cm Average\n * **Vertical Ratio:** 8.5% Average\n * **Elevation:** 908 m Min / 913 m Max\n * **Avg Power:** 301 W (Max Power: 388 W, Max W/kg: 5.55)\n * **Time in Heart Rate Zones:** Zone 4 (Threshold): 14:21 (82%), Zone 3 (Aerobic): 2:32 (14%), Zone 2 (Easy): 0:25 (2%), Zone 5 (Maximum): 0:06 (0%), Zone 1 (Warm Up): 0:03 (0%)\n * **Lap Splits:**\n   * **Lap 1:** 1.00 km | 5:57.2 | 5:57 avg pace (5:56 moving pace) | 150 avg HR | 161 max HR | 167 avg cadence | 177 max cadence | 286 W avg power | 348 W max power | 73 Cal\n   * **Lap 2:** 1.00 km | 5:52.8 | 5:53 avg pace (5:53 moving pace) | 163 avg HR | 173 max HR | 175 avg cadence | 181 max cadence | 310 W avg power | 388 W max power | 81 Cal\n   * **Lap 3:** 1.00 km | 5:28.9 | 5:29 avg pace (5:28 moving pace) | 171 avg HR | 175 max HR | 175 avg cadence | 179 max cadence | 307 W avg power | 365 W max power | 76 Cal\n   * **Lap 4:** 0.02 km | 0:07.8 | 6:00 avg pace (5:22 moving pace) | 174 avg HR | 174 max HR | 172 avg cadence | 172 max cadence | 355 W avg power | 362 W max power | 2 Cal\n\n\n### Entry 1"
+  },
+  {
+    "date": "2026-07-03",
+    "age": 37,
+    "weight": null,
+    "vo2": 50,
+    "restingHr": null,
+    "hrv": 46,
+    "sleepScore": 70,
+    "sleepMin": 359,
+    "steps": 20161,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": 4.48,
+    "strengthVol": null,
+    "runs": [
+      {
+        "distance": 3.02,
+        "avgPace": "6:16",
+        "avgPaceSec": 376,
+        "avgHr": null,
+        "maxHr": null,
+        "calories": 231,
+        "time": "18:55",
+        "laps": [
+          {
+            "n": 1,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 2,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 3,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 4,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          }
+        ]
+      }
+    ],
+    "raw": "master summary for **July 3rd**\n### Diet & Supplementation\n * **Breakfast:** 2 boiled eggs\n * **Lunch:** 4 x sattu paratha + sprouts sabzi\n * **Dinner:** 2 x maggi noodles + 2 egg scrambled\n * **Supplements:** Omega 3 (x1), Magnesium Glycinate (x1)\n### Activity & Health Metrics\n * **Total Steps:** 20,161 steps (201% of 10,000 goal, 180-Day Goal Streak!)\n * **Total Calories Burned:** 2,751 Cal (951 Active vs. 1,800 Resting)\n * **Heart Rate:** 52 bpm Resting / 156 bpm Daily High\n * **HRV Status:** Balanced (7d Avg: 46 ms, Overnight Avg: 42 ms)\n   * *Watch Insight:* \"Last night\u2019s HRV was lower than usual. While it\u2019s normal for HRV to vary from day to day, you may want to take it easy today if you feel tired.\"\n * **Body Battery:** Change: +38\n * **Respiration:** 16 brpm Average / 12 brpm Lowest\n * **VO2 Max:** 50 (Excellent)\n * **Weight / BMI:** 69.9 kg (-0.4 kg change) / 25.4 BMI\n * **Floors:** 14 Climbed / 13 Descended\n### Sleep Summary\n * **Sleep Score:** 70 (Fair Quality)\n * **Total Nighttime Sleep Duration:** 5h 59m\n * **Watch Insight:** \"Shorter than ideal, continuous. Your sleep was a bit short, but good that it was continuous. The timing of your sleep was excellent, based on your recent sleep patterns. Sticking to consistent bedtimes and waketimes will help improve your sleep quality.\"\n * **Sleep Stages:** Deep: 54m, Light: 4h 1m, REM: 1h 4m, Awake: 10m\n * **Avg Overnight Heart Rate:** 57 bpm\n### Detailed Daily Activities\n#### Activity 1: Bengaluru Walking (Afternoon - 11:16)\n * **Distance:** 0.79 km\n * **Total Time:** 11:16\n * **Avg Pace:** 14:12 /km\n * **Avg Heart Rate:** 101 bpm\n * **Total Calories:** 60 Cal\n#### Activity 2: Bengaluru Walking (Afternoon - 15:14)\n * **Distance:** 2.05 km\n * **Total Time:** 17:14 (Lap details state 17:13.7)\n * **Avg Pace:** 8:25 /km (Best Pace: 3:48 /km)\n * **Heart Rate:** 126 bpm Avg / 142 bpm Max\n * **Cadence:** 130 spm Avg / 150 spm Max\n * **Total Calories:** 141 Cal\n * **Elevation:** 910 m Min / 915 m Max\n * **Time in Heart Rate Zones:** Zone 2 (Easy): 10:58 (63%), Zone 3 (Aerobic): 5:16 (30%), Zone 1 (Warm Up): 1:00 (5%)\n * **Lap Splits:**\n   * **Lap 1:** 1.00 km | 8:30.4 | 8:30 avg pace | 7.1 km/h avg speed | 15.6 km/h max speed | 119 avg HR | 128 max HR | 130 avg cadence | 143 max cadence | 66 Cal\n   * **Lap 2:** 1.00 km | 8:19.6 | 8:20 avg pace | 7.2 km/h avg speed | 15.8 km/h max speed | 133 avg HR | 142 max HR | 133 avg cadence | 150 max cadence | 71 Cal\n   * **Lap 3:** 0.05 km | 0:23.7 | 8:09 avg pace | 7.4 km/h avg speed | 7.5 km/h max speed | 137 avg HR | 139 max HR | 62 avg cadence | 143 max cadence | 4 Cal\n#### Activity 3: Bengaluru Running (Evening - 17:04)\n * **Distance:** 3.02 km\n * **Total Time:** 18:55 (Lap details state 18:55.2)\n * **Avg Pace:** 6:16 /km (Best Pace: 4:12 /km)\n * **Heart Rate:** 150 bpm Avg / 161 bpm Max\n * **Run Cadence:** 174 spm Avg / 182 spm Max\n * **Total Calories:** 231 Cal\n * **Avg Ground Contact Time (GCT):** 247 ms\n * **Avg Stride Length:** 0.95 m\n * **Vertical Oscillation:** 8.5 cm Average\n * **Vertical Ratio:** 8.2% Average\n * **Elevation:** 904 m Min / 914 m Max\n * **Avg Power:** 280 W (Max Power: 445 W, Max W/kg: 6.37)\n * **Time in Heart Rate Zones:** Zone 3 (Aerobic): 9:15 (49%), Zone 4 (Threshold): 7:33 (40%), Zone 2 (Easy): 1:33 (8%), Zone 5 (Maximum): 0:30 (2%), Zone 1 (Warm Up): 0:03 (0%)\n * **Lap Splits:**\n   * **Lap 1:** 1.00 km | 6:33.5 | 6:33 avg pace (6:28 moving pace) | 143 avg HR | 151 max HR | 169 avg cadence | 180 max cadence | 267 W avg power | 390 W max power | 76 Cal\n   * **Lap 2:** 1.00 km | 6:17.0 | 6:17 avg pace (6:17 moving pace) | 151 avg HR | 158 max HR | 176 avg cadence | 180 max cadence | 283 W avg power | 417 W max power | 77 Cal\n   * **Lap 3:** 1.00 km | 5:55.3 | 5:55 avg pace (5:55 moving pace) | 156 avg HR | 161 max HR | 176 avg cadence | 182 max cadence | 291 W avg power | 445 W max power | 76 Cal\n   * **Lap 4:** 0.02 km | 0:09.4 | 7:56 avg pace (6:45 moving pace) | 160 avg HR | 160 max HR | 175 avg cadence | 176 max cadence | 309 W avg power | 329 W max power | 2 Cal\n#### Activity 4: Bengaluru Walking (Evening - 17:26)\n * **Distance:** 1.22 km\n * **Total Time:** 17:52\n * **Avg Pace:** 14:41 /km\n * **Avg Heart Rate:** 119 bpm\n * **Total Calories:** 129 Cal\n#### Activity 5: Table Tennis (Evening - 18:04)\n * **Distance:** 0.01 km\n * **Total Time:** 23:52\n * **Avg Heart Rate:** 106 bpm\n * **Total Calories:** 144 Cal\n#### Activity 6: Bengaluru Walking (Night - 18:46)\n * **Distance:** 0.42 km\n * **Total Time:** 11:19\n * **Avg Pace:** 27:11 /km\n * **Avg Heart Rate:** 90 bpm\n * **Total Calories:** 48 Cal\n\nStep count is currently at 21057. Please note. Also, knee is doing ok after the walk and run. Didn't feel as breathless after the 3rd km during the run. Could have continued but wanted to play Table Tennis, so took a break and did a cooldown walk.\n\n\n## 2026-07-04\n\n### Entry 1"
+  },
+  {
+    "date": "2026-07-04",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": 46,
+    "sleepScore": 74,
+    "sleepMin": 382,
+    "steps": 12290,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": null,
+    "strengthVol": null,
+    "runs": [],
+    "raw": "master summary for **July 4th**\n### Diet & Supplementation\n * **Breakfast:** 2 besan chilla\n * **Lunch:** 1 dosa + popcorn\n * **Dinner:** 3 eggs omelette + dal cutlets\n * **Supplements:** Omega 3 (x1), Magnesium Glycinate (x1)\n### Activity & Health Metrics\n * **Total Steps:** 12,290 steps (122% of 10,000 goal, 181-Day Goal Streak!)\n * **Total Distance:** 8.6 km\n * **Total Calories Burned:** 2,103 Cal (260 Active vs. 1,843 Resting)\n * **Heart Rate:** 52 bpm Resting / 101 bpm Daily High\n * **HRV Status:** Balanced (7d Avg: 46 ms, Overnight Avg: 43 ms)\n   * *Watch Insight:* \"Last night\u2019s HRV was lower than usual. While it\u2019s normal for HRV to vary from day to day, you may want to take it easy today if you feel tired.\"\n * **Body Battery:** Change: +46\n * **Respiration:** 15 brpm Average / 10 brpm Lowest\n### Sleep Summary\n * **Sleep Score:** 74 (Fair Quality)\n * **Total Nighttime Sleep Duration:** 6h 22m\n * **Watch Insight:** \"Shorter than ideal, plenty of deep. Your sleep was a bit short, but you had good deep sleep. The timing of your sleep was excellent, based on your recent sleep patterns. Sticking to consistent bedtimes and waketimes will help improve your sleep quality.\"\n * **Sleep Stages:** Deep: 2h 0m, Light: 3h 27m, REM: 55m, Awake: 3m\n * **Avg Overnight Heart Rate:** 56 bpm\n### Detailed Daily Activities\n#### Activity 1: Walking (Night - 21:00)\n * **Pace / Heart Rate Profile:** Visual timeline shows active movement spikes correlating with an evening timeline high of 101 bpm.\n\n\n## 2026-07-05\n\n### Entry 1"
+  },
+  {
+    "date": "2026-07-05",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": 46,
+    "sleepScore": 76,
+    "sleepMin": 373,
+    "steps": 13784,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": 1.02,
+    "strengthVol": null,
+    "runs": [
+      {
+        "distance": 6.11,
+        "avgPace": "6:28",
+        "avgPaceSec": 388,
+        "avgHr": null,
+        "maxHr": null,
+        "calories": 476,
+        "time": "39:33",
+        "laps": [
+          {
+            "n": 1,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 2,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 3,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 4,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 5,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 6,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 7,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          }
+        ]
+      }
+    ],
+    "raw": "master summary for **July 5th**\n### Diet & Supplementation\n * **Breakfast:** Cornflakes\n * **Lunch:** Brinjal bharta with 4 chapatis\n * **Dinner:** Burrito bowl with peri peri potatoes and mushrooms\n * **Supplements:** Omega 3 (x1), Magnesium Glycinate (x1)\n### Activity & Health Metrics\n * **Total Steps:** 13,784 steps (137% of 10,000 goal, 182-Day Goal Streak!)\n * **Total Distance:** 11.4 km\n * **Total Calories Burned:** 2,443 Cal (628 Active vs. 1,815 Resting)\n * **Heart Rate:** 47 bpm Resting / 171 bpm Daily High\n * **HRV Status:** Balanced (7d Avg: 46 ms, Overnight Avg: 52 ms)\n   * *Watch Insight:* \"Excellent! Keeping your HRV status balanced with both training and recovery can lead to improved overall health.\"\n * **Body Battery:** Change: +73 Charged\n * **Respiration:** 15 brpm Average / 10 brpm Lowest\n * **Floors:** 28 Climbed / 23 Descended\n### Sleep Summary\n * **Sleep Score:** 76 (Fair Quality)\n * **Total Nighttime Sleep Duration:** 6h 13m\n * **Watch Insight:** \"Shorter than ideal, plenty of deep. Your sleep was a bit short, but you had good deep sleep. The timing of your sleep was perfect based on your recent sleep patterns. Sticking to consistent bedtimes and waketimes will help improve your sleep quality.\"\n * **Sleep Stages:** Deep: 1h 47m, Light: 3h 20m, REM: 1h 6m, Awake: 23m\n * **Avg Overnight Heart Rate:** 51 bpm\n### Detailed Daily Activities\n#### Activity 1: Bengaluru Walking (Evening - 18:21)\n * **Distance:** 1.02 km\n * **Total Time:** 8:34\n * **Avg Pace:** 8:24 /km (Best Pace: 5:54 /km)\n * **Heart Rate:** 114 bpm Avg / 134 bpm Max\n * **Cadence:** 124 spm Avg / 145 spm Max\n * **Total Calories:** 68 Cal\n * **Elevation:** 911 m Min / 916 m Max\n * **Time in Heart Rate Zones:** Zone 1 (Warm Up): 3:37 (42%), Zone 2 (Easy): 3:24 (39%), Zone 3 (Aerobic): 1:07 (13%)\n#### Activity 2: Bengaluru Running (Evening - 18:30)\n * **Distance:** 6.11 km\n * **Total Time:** 39:33 (Lap details state 39:32.6)\n * **Avg Pace:** 6:28 /km (Best Pace: 4:25 /km)\n * **Heart Rate:** 151 bpm Avg / 174 bpm Max\n * **Run Cadence:** 174 spm Avg / 184 spm Max\n * **Total Calories:** 476 Cal\n * **Avg Ground Contact Time (GCT):** 258 ms\n * **Avg Stride Length:** 0.92 m\n * **Vertical Oscillation:** 8.1 cm Average\n * **Vertical Ratio:** 8.9% Average\n * **Elevation:** 912 m Min / 925 m Max\n * **Avg Power:** 272 W (Max Power: 480 W, Max W/kg: 6.87)\n * **Time in Heart Rate Zones:** Zone 4 (Threshold): 24:34 (62%), Zone 3 (Aerobic): 11:35 (29%), Zone 5 (Maximum): 2:13 (5%), Zone 2 (Easy): 0:58 (2%), Zone 1 (Warm Up): 0:03 (0%)\n * **Lap Splits:**\n   * **Lap 1:** 1.00 km | 6:59.5 | 6:59 avg pace | 141 avg HR | 150 max HR | 170 avg cadence | 178 max cadence | 254 W avg power | 381 W max power | 77 Cal\n   * **Lap 2:** 1.00 km | 6:53.2 | 6:53 avg pace | 149 avg HR | 161 max HR | 174 avg cadence | 183 max cadence | 267 W avg power | 439 W max power | 80 Cal\n   * **Lap 3:** 1.00 km | 6:15.3 | 6:15 avg pace | 149 avg HR | 156 max HR | 177 avg cadence | 184 max cadence | 274 W avg power | 404 W max power | 76 Cal\n   * **Lap 4:** 1.00 km | 6:21.7 | 6:22 avg pace | 151 avg HR | 158 max HR | 176 avg cadence | 181 max cadence | 280 W avg power | 362 W max power | 77 Cal\n   * **Lap 5:** 1.00 km | 6:17.6 | 6:18 avg pace | 154 avg HR | 164 max HR | 175 avg cadence | 180 max cadence | 274 W avg power | 352 W max power | 78 Cal\n   * **Lap 6:** 1.00 km | 6:05.2 | 6:05 avg pace | 163 avg HR | 174 max HR | 172 avg cadence | 184 max cadence | 288 W avg power | 480 W max power | 79 Cal\n   * **Lap 7:** 0.11 km | 0:40.2 | 5:53 avg pace (5:43 moving pace) | 173 avg HR | 174 max HR | 173 avg cadence | 177 max cadence | 288 W avg power | 341 W max power | 9 Cal\n\nAlso, weighed myself. I'm at 69.9kgs today. \nThe run was very comfortable and easy. No leg ache, no breathless or heavy feeling. In fact, it took me back to the 13th June run. I steered to a halt right after 6kms. Didn't want to overdo suddenly.\n\n---\n\n## 2026-07-06\n\n### Entry 1"
+  },
+  {
+    "date": "2026-07-06",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": null,
+    "sleepScore": 66,
+    "sleepMin": null,
+    "steps": 12807,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": null,
+    "strengthVol": null,
+    "runs": [],
+    "raw": "master summary for **July 6th**\n### Diet & Supplementation\n * **Breakfast:** 3 idlis + single pav bhaji\n * **Lunch:** Dal chawal + salad + chola\n * **Dinner:** 5 x besan chilla + cucumber and carrot salad\n * **Supplements:** Omega 3 (\\times1), Magnesium Glycinate (\\times1)\n### Activity & Health Metrics\n * **Total Steps:** 12,807 steps (128% of 10,000 goal, 183-Day Goal Streak!)\n * **Total Distance:** 9.4\\text{ km}\n * **Total Calories Burned:** 2,237 Cal (533 Active vs. 1,704 Resting)\n * **Heart Rate:** 50\\text{ bpm} Resting / 127\\text{ bpm} Daily High\n * **HRV Status:** Balanced (7d Avg: 46\\text{ ms}, Overnight Avg: 44\\text{ ms})\n   * *Watch Insight:* \"Your HRV status looks good! Your body is handling its current training load quite nicely.\"\n### Sleep Summary\n * **Sleep Score:** 66 (Fair Quality)\n * **Total Nighttime Sleep Duration:** 5\\text{h }51\\text{m}\n * **Watch Insight:** \"Shorter than ideal, not enough REM. You slept a bit less than recommended, and your amount of REM sleep was low. Your very stressful day yesterday may have compromised your sleep.\"\n * **Sleep Stages:** Deep: 1\\text{h }17\\text{m}, Light: 4\\text{h }4\\text{m}, REM: 30\\text{m}, Awake: 25\\text{m}\n * **Avg Overnight Heart Rate:** 55\\text{ bpm}\n### Detailed Daily Activities\n#### Activity 1: Walking (Morning - 08:21)\n * **Distance:** 1.10\\text{ km}\n * **Total Time:** 9:07\n * **Avg Pace:** 8:20\\text{ /km}\n * **Avg Heart Rate:** 102\\text{ bpm}\n * **Total Calories:** 62\\text{ Cal}\n#### Activity 2: Bengaluru Walking (Morning - 09:00)\n * **Distance:** 1.35\\text{ km}\n * **Total Time:** 12:47\n * **Avg Pace:** 9:27\\text{ /km}\n * **Avg Heart Rate:** 110\\text{ bpm}\n * **Total Calories:** 92\\text{ Cal}\n#### Activity 3: Bengaluru Walking (Afternoon - 13:54)\n * **Distance:** 1.08\\text{ km}\n * **Total Time:** 18:33\n * **Avg Pace:** 17:10\\text{ /km}\n * **Avg Heart Rate:** 91\\text{ bpm}\n * **Total Calories:** 77\\text{ Cal}\n#### Activity 4: Bengaluru Walking (Evening - 19:04)\n * **Distance:** 0.77\\text{ km}\n * **Total Time:** 10:14\n * **Avg Pace:** 13:18\\text{ /km}\n * **Avg Heart Rate:** 101\\text{ bpm}\n * **Total Calories:** 57\\text{ Cal}\n#### Activity 5: Strength Training - Push Day (Night - 19:43)\n * **Total Workout Time:** 33:07\n   * *Work Time:* 13:24 | *Rest Time:* 19:42\n * **Heart Rate:** 95\\text{ bpm} Average / 124\\text{ bpm} Maximum\n * **Training Effect Primary Benefit:** Base (Low Aerobic)\n * **Total Calories:** 154\\text{ Cal} (Active: 110 / Resting: 44)\n * **Volume Metrics:** Total Reps: 146 | Total Sets: 12 | Total Volume: 1,890\\text{ kg}\n * **Intensity Minutes:** Moderate: 23\\text{ min} | Total: 23\\text{ min}\n * **Self Evaluation:** Felt Strong | Moderate Effort (3/10)\n * **Time in Heart Rate Zones:** Zone 1 (Warm Up): 17:23 (52\\%), Zone 2 (Easy): 1:29 (4\\%)\n * **Exercise Set Breakdown:**\n   * **Sets 1\u20135:** Dumbbell Bench Press\n     * *Set 1:* 1:19 work time | 15\\text{ reps} @ 15.0\\text{ kg}\n     * *Set 2:* 1:09 work time | 12\\text{ reps} @ 15.0\\text{ kg}\n     * *Set 3:* 1:01 work time | 10\\text{ reps} @ 15.0\\text{ kg}\n     * *Set 4:* 0:58 work time | 10\\text{ reps} @ 15.0\\text{ kg}\n     * *Set 5:* 0:57 work time | 8\\text{ reps} @ 15.0\\text{ kg}\n   * **Sets 6\u201310:** Overhead Dumbbell Press\n     * *Set 6:* 1:38 work time | 15\\text{ reps} @ 15.0\\text{ kg}\n     * *Set 7:* 1:03 work time | 10\\text{ reps} @ 15.0\\text{ kg}\n     * *Set 8:* 0:49 work time | 8\\text{ reps} @ 15.0\\text{ kg}\n     * *Set 9:* 0:46 work time | 9\\text{ reps} @ 15.0\\text{ kg}\n     * *Set 10:* 0:48 work time | 9\\text{ reps} @ 15.0\\text{ kg}\n   * **Sets 11\u201312:** Push-up\n     * *Set 11:* 1:29 work time | 20\\text{ reps} @ 7.5\\text{ kg} *(bodyweight calculation adjustment)*\n     * *Set 12:* 1:27 work time | 20\\text{ reps} @ 7.5\\text{ kg}\n\n---\n\n## 2026-07-08\n\n### Entry 1"
+  },
+  {
+    "date": "2026-07-07",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": null,
+    "sleepScore": 81,
+    "sleepMin": null,
+    "steps": 16010,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": null,
+    "strengthVol": null,
+    "runs": [
+      {
+        "distance": null,
+        "avgPace": "6:10",
+        "avgPaceSec": 370,
+        "avgHr": null,
+        "maxHr": null,
+        "calories": 232,
+        "time": "19:16",
+        "laps": [
+          {
+            "n": 1,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 2,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 3,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 4,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          }
+        ]
+      }
+    ],
+    "raw": "master summary for **July 7th**\nHere is your completed Master Summary for the day:\n### \ud83c\udf7d\ufe0f Diet & Supplementation\n * **Breakfast:** 3 eggs omelette + 2 idlis\n * **Lunch:** 1 serving of rice and dal + salad\n * **Dinner:** 3 eggs omelette with cheese + cucumber and carrot salad\n * **Supplements:** Omega 3 (\\times1), Magnesium Glycinate (\\times1)\n### \ud83d\udcc8 Activity & Health Metrics\n * **Total Steps:** 16,010 steps (160% of your 10,000 goal)\n * **Total Distance:** 12.3\\text{ km}\n * **Total Calories Burned:** 2,487 Cal\n * **Heart Rate:** 48\\text{ bpm} Resting / 152\\text{ bpm} Daily High\n * **HRV Status:** Balanced (7d Avg: 46\\text{ ms}, Overnight Avg: 46\\text{ ms})\n   * *Watch Insight:* \"Balanced HRV is a sign that your body, and thus your nervous system, have had adequate time to recover.\"\n * **Body Battery Change:** +77 Charged\n * **Respiration:** 16 brpm Average / 11 brpm Lowest\n * **Floors:** 13 Climbed / 13 Descended\n### \ud83d\udca4 Sleep Summary\n * **Sleep Score:** 81 (Good Quality)\n * **Total Nighttime Sleep Duration:** 7\\text{h }26\\text{m}\n * **Watch Insight:** \"Plenty of deep. You had long, deep sleep. Your activity yesterday was great for your sleep quality. Being active early in the day, especially outdoors, tunes your body clock and helps you sleep more deeply.\"\n * **Sleep Stages:** Deep: 1\\text{h }48\\text{m}, Light: 4\\text{h }36\\text{m}, REM: 1\\text{h }2\\text{m}, Awake: 26\\text{m}\n * **Avg Overnight Heart Rate:** 53\\text{ bpm}\n### \ud83c\udfc3\u200d\u2642\ufe0f Detailed Daily Activities Log\n#### Activity 1: Walking (Morning - 08:16)\n * **Distance:** 0.57\\text{ km}\n * **Total Time:** 5:25\n * **Avg Pace:** 9:30\\text{ /km}\n * **Avg Heart Rate:** 100\\text{ bpm}\n * **Total Calories:** 32\\text{ Cal}\n#### Activity 2: Bengaluru Walking (Morning - 08:36)\n * **Distance:** 1.02\\text{ km}\n * **Total Time:** 8:36\n * **Avg Pace:** 8:27\\text{ /km}\n * **Avg Heart Rate:** 114\\text{ bpm}\n * **Total Calories:** 68\\text{ Cal}\n#### Activity 3: Bengaluru Walking (Afternoon - 13:50)\n * **Distance:** 1.07\\text{ km}\n * **Total Time:** 13:47\n * **Avg Pace:** 12:53\\text{ /km}\n * **Avg Heart Rate:** 94\\text{ bpm}\n * **Total Calories:** 68\\text{ Cal}\n#### Activity 4: Bengaluru Running (Evening - 18:20)\n * **Distance:** 3.12\\text{ km}\n * **Total Time:** 19:16 (Lap details state 19:15.9)\n * **Avg Pace:** 6:10\\text{ /km} (Best Pace: 4:51\\text{ /km})\n * **Heart Rate:** 145\\text{ bpm} Avg / 159\\text{ bpm} Max\n * **Run Cadence:** 172\\text{ spm} Avg / 183\\text{ spm} Max\n * **Total Calories:** 232\\text{ Cal}\n * **Avg Ground Contact Time (GCT):** 253\\text{ ms}\n * **Avg Stride Length:** 0.98\\text{ m}\n * **Vertical Oscillation:** 8.4\\text{ cm} Average\n * **Vertical Ratio:** 8.6\\% Average\n * **Elevation:** 914\\text{ m} Min / 920\\text{ m} Max\n * **Avg Power:** 288\\text{ W} (Max Power: 385\\text{ W}, Max W/kg: 5.51)\n * **Time in Heart Rate Zones:** Zone 4 (Threshold): 8:44 (45\\%), Zone 3 (Aerobic): 5:58 (31\\%), Zone 2 (Easy): 3:28 (18\\%), Zone 1 (Warm Up): 0:25 (1\\%), Zone 5 (Maximum): 0:21 (1\\%)\n * **Lap Splits:**\n   * **Lap 1:** 1.00\\text{ km} | 6:15.5 | 6:16\\text{ avg pace} | 142\\text{ avg HR} | 152\\text{ max HR} | 173\\text{ avg cadence} | 183\\text{ max cadence} | 277\\text{ W avg power} | 382\\text{ W max power} | 74\\text{ Cal}\n   * **Lap 2:** 1.00\\text{ km} | 6:06.5 | 6:06\\text{ avg pace} | 149\\text{ avg HR} | 159\\text{ max HR} | 173\\text{ avg cadence} | 180\\text{ max cadence} | 292\\text{ W avg power} | 378\\text{ W max power} | 76\\text{ Cal}\n   * **Lap 3:** 1.00\\text{ km} | 6:04.5 | 6:04\\text{ avg pace} | 144\\text{ avg HR} | 151\\text{ max HR} | 174\\text{ avg cadence} | 180\\text{ max cadence} | 293\\text{ W avg power} | 385\\text{ W max power} | 73\\text{ Cal}\n   * **Lap 4:** 0.12\\text{ km} | 0:49.5 | 6:48\\text{ avg pace} | 145\\text{ avg HR} | 150\\text{ max HR} | 134\\text{ avg cadence} | 175\\text{ max cadence} | 319\\text{ W avg power} | 347\\text{ W max power} | 10\\text{ Cal}\nYour data profile for the 7th shows excellent structural recovery\u2014getting over 7 and a half hours of continuous sleep clearly did wonders for bringing your overnight HRV right back to a perfectly balanced baseline state.\n\n\n### Entry 4"
+  },
+  {
+    "date": "2026-07-08",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": null,
+    "sleepScore": 75,
+    "sleepMin": null,
+    "steps": 10117,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": null,
+    "strengthVol": null,
+    "runs": [],
+    "raw": "master summary for **July 8th**\n### \ud83c\udf7d\ufe0f Diet & Supplementation\n * **Breakfast:** 3 idlis + 3 eggs omelette + 1 dosa\n * **Lunch:** *Skipped*\n * **Dinner:** 3 eggs omelette + palak paneer + cucumber and carrot salad\n * **Supplements:** Omega 3 (\\times1), Magnesium Glycinate (\\times1)\n### \ud83d\udcc8 Activity & Health Metrics\n * **Total Steps:** 10,117 steps (101% of your 10,000 goal, hitting an outstanding **185-Day Goal Streak!**)\n * **Total Distance:** 7.5\\text{ km}\n * **Total Calories Burned:** 2,024 Cal (285 Active vs. 1,739 Resting)\n * **Heart Rate:** 50\\text{ bpm} Resting / 118\\text{ bpm} Daily High\n * **HRV Status:** Balanced (7d Avg: 46\\text{ ms}, Overnight Avg: 49\\text{ ms})\n   * *Watch Insight:* \"Your HRV status looks good! Your body is handling its current training load quite nicely.\"\n * **Body Battery:** Change: +63 Charged\n * **Respiration:** 15 brpm Average / 11 brpm Lowest\n### \ud83d\udca4 Sleep Summary\n * **Sleep Score:** 75 (Fair Quality)\n * **Total Nighttime Sleep Duration:** 6\\text{h }3\\text{m}\n * **Watch Insight:** \"Shorter than ideal, plenty of deep. Your sleep was a bit short, but you had good deep sleep. The timing of your sleep was perfect based on your recent sleep patterns.\"\n * **Sleep Stages:** Deep: 1\\text{h }24\\text{m} | Light: 3\\text{h }27\\text{m} | REM: 1\\text{h }12\\text{m} | Awake: 11\\text{m}\n * **Avg Overnight Heart Rate:** 53\\text{ bpm}\n### \ud83c\udfc3\u200d\u2642\ufe0f Detailed Daily Activities Log\n#### Activity 1: Walking (Morning - 08:21)\n * **Distance:** 2.42\\text{ km}\n * **Total Time:** 23:03\n * **Avg Pace:** 9:32\\text{ /km}\n * **Avg Heart Rate:** 99\\text{ bpm}\n * **Total Calories:** 138\\text{ Cal}\n * **Workout Benefit:** Recovery (Low Aerobic)\n#### Activity 2: Bengaluru Walking (Morning - 09:30)\n * **Distance:** 0.75\\text{ km}\n * **Total Time:** 11:14\n * **Avg Pace:** 14:58\\text{ /km}\n * **Avg Heart Rate:** 108\\text{ bpm}\n * **Total Calories:** 67\\text{ Cal}\n\n---\n\n## 2026-07-09\n\n### Entry 1"
+  },
+  {
+    "date": "2026-07-09",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": null,
+    "sleepScore": 48,
+    "sleepMin": null,
+    "steps": 16699,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": null,
+    "strengthVol": null,
+    "runs": [
+      {
+        "distance": null,
+        "avgPace": "5:58",
+        "avgPaceSec": 358,
+        "avgHr": null,
+        "maxHr": null,
+        "calories": 387,
+        "time": "29:57",
+        "laps": [
+          {
+            "n": 1,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 2,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 3,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 4,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 5,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          }
+        ]
+      }
+    ],
+    "raw": "master summary for **July 9th**\n### \ud83c\udf7d\ufe0f Diet & Supplementation\n * **Breakfast:** 3 eggs omelette + 3 idlis + 1 dosa\n * **Lunch:** *Skipped*\n * **Dinner:** 3 eggs cheese omelette + cucumber and carrot salad\n * **Supplements:** Omega 3 (\\times1), Magnesium Glycinate (\\times1)\n### \ud83d\udcc8 Activity & Health Metrics\n * **Total Steps:** 16,699 steps (166% of your 10,000 goal, marking an exceptional **186-Day Goal Streak!**)\n * **Total Distance:** 14.1\\text{ km}\n * **Total Calories Burned:** 2,576 Cal (801 Active vs. 1,775 Resting)\n * **Heart Rate:** 49\\text{ bpm} Resting / 170\\text{ bpm} Daily High\n * **HRV Status:** Balanced (7d Avg: 46\\text{ ms}, Overnight Avg: 47\\text{ ms})\n   * *Watch Insight:* \"Excellent! Keeping your HRV status balanced with both training and recovery can lead to improved overall health.\"\n * **Body Battery:** Change of +43\n * **Respiration:** 15 brpm Average\n * **Floors:** 9 Climbed / 8 Descended\n### \ud83d\udca4 Sleep Summary\n * **Sleep Score:** 48 (Poor Quality)\n * **Total Nighttime Sleep Duration:** 5\\text{h }31\\text{m}\n * **Watch Insight:* \"Shorter than ideal, unbalanced sleep stages. You slept a bit less than recommended, and your overall quality was low. You may not feel well rested today.\"\n * **Sleep Stages:** Deep: 1\\text{h }9\\text{m} | Light: 3\\text{h }38\\text{m} | REM: 44\\text{m} | Awake: 1\\text{h }42\\text{m}\n * **Avg Overnight Heart Rate:** 52\\text{ bpm}\n### \ud83c\udfc3\u200d\u2642\ufe0f Detailed Daily Activities Log\n#### Activity 1: Bengaluru Walking (Morning - 08:43)\n * **Distance:** 1.02\\text{ km}\n * **Total Time:** 8:43\n * **Avg Pace:** 8:33\\text{ /km}\n * **Avg Heart Rate:** 112\\text{ bpm}\n * **Total Calories:** 65\\text{ Cal}\n#### Activity 2: Walking (Morning - 09:09)\n * **Distance:** 2.30\\text{ km}\n * **Total Time:** 17:57 (Lap details state 17:57.2)\n * **Avg Pace:** 7:48\\text{ /km} (Best Pace: 6:28\\text{ /km})\n * **Heart Rate:** 118\\text{ bpm} Avg / 135\\text{ bpm} Max\n * **Cadence:** 129\\text{ spm} Avg / 141\\text{ spm} Max\n * **Total Calories:** 130\\text{ Cal}\n * **Elevation:** 854\\text{ m} Min / 860\\text{ m} Max\n * **Workout Benefit:** Recovery (Low Aerobic)\n * **Time in Heart Rate Zones:** Zone 2 (Easy): 13:26 (74\\%), Zone 1 (Warm Up): 2:56 (16\\%), Zone 3 (Aerobic): 1:35 (8\\%)\n * **Lap Splits:**\n   * **Lap 1:** 1.00\\text{ km} | 8:01.6 | 8:01\\text{ avg pace} | 111\\text{ avg HR} | 124\\text{ max HR} | 127\\text{ avg cadence} | 54\\text{ Cal}\n   * **Lap 2:** 1.00\\text{ km} | 7:38.4 | 7:38\\text{ avg pace} | 122\\text{ avg HR} | 129\\text{ max HR} | 131\\text{ avg cadence} | 58\\text{ Cal}\n   * **Lap 3:** 0.30\\text{ km} | 2:17.3 | 7:33\\text{ avg pace} | 129\\text{ avg HR} | 135\\text{ max HR} | 133\\text{ avg cadence} | 18\\text{ Cal}\n#### Activity 3: Bengaluru Running (Evening - 18:09)\n * **Distance:** 5.02\\text{ km}\n * **Total Time:** 29:57\n * **Avg Pace:** 5:58\\text{ /km}\n * **Heart Rate:** 156\\text{ bpm} Avg / 173\\text{ bpm} Max\n * **Run Cadence:** 172\\text{ spm} Avg / 182\\text{ spm} Max\n * **Total Calories:** 387\\text{ Cal}\n * **Avg Ground Contact Time (GCT):** 254\\text{ ms}\n * **Avg Stride Length:** 1.01\\text{ m}\n * **Vertical Oscillation:** 8.6\\text{ cm} Average\n * **Vertical Ratio:** 8.5\\% Average\n * **Elevation:** 917\\text{ m} Min / 927\\text{ m} Max\n * **Avg Power:** 292\\text{ W} (Max Power: 479\\text{ W}, Max W/kg: 6.85)\n * **Time in Heart Rate Zones:** Zone 4 (Threshold): 23:54 (80\\%), Zone 3 (Aerobic): 4:25 (15\\%), Zone 5 (Maximum): 0:33 (1\\%), Zone 2 (Easy): 0:30 (1\\%), Zone 1 (Warm Up): 0:25 (1\\%)\n * **Lap Splits:**\n   * **Lap 1:** 1.00\\text{ km} | 6:13.5 | 6:13\\text{ avg pace} | 141\\text{ avg HR} | 151\\text{ max HR} | 169\\text{ avg cadence} | 176\\text{ max cadence} | 274\\text{ W avg power} | 414\\text{ W max power} | 73\\text{ Cal}\n   * **Lap 2:** 1.00\\text{ km} | 6:06.8 | 6:07\\text{ avg pace} | 154\\text{ avg HR} | 160\\text{ max HR} | 175\\text{ avg cadence} | 182\\text{ max cadence} | 288\\text{ W avg power} | 370\\text{ W max power} | 79\\text{ Cal}\n   * **Lap 3:** 1.00\\text{ km} | 5:51.5 | 5:51\\text{ avg pace} | 155\\text{ avg HR} | 169\\text{ max HR} | 169\\text{ avg cadence} | 177\\text{ max cadence} | 300\\text{ W avg power} | 449\\text{ W max power} | 75\\text{ Cal}\n   * **Lap 4:** 1.00\\text{ km} | 5:56.6 | 5:57\\text{ avg pace} | 163\\text{ avg HR} | 169\\text{ max HR} | 175\\text{ avg cadence} | 181\\text{ max cadence} | 288\\text{ W avg power} | 479\\text{ W max power} | 80\\text{ Cal}\n   * **Lap 5:** 1.00\\text{ km} | 5:41.0 | 5:41\\text{ avg pace} | 168\\text{ avg HR} | 173\\text{ max HR} | 172\\text{ avg cadence} | 176\\text{ max cadence} | 310\\text{ W avg power} | 479\\text{ W max power} | 78\\text{ Cal}\n\nThe knees felt fine after the run. Slight but manageable heaviness as I ended the day during sleep time though.\n\n---\n\n## 2026-07-11\n\n### Entry 1"
+  },
+  {
+    "date": "2026-07-10",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": null,
+    "sleepScore": null,
+    "sleepMin": null,
+    "steps": null,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": null,
+    "strengthVol": null,
+    "runs": [],
+    "raw": "master summary for **July 10th**\n### \ud83c\udf7d\ufe0f Diet & Supplementation\n * **Breakfast**: 1 bread + 3 eggs omelette + papaya\n * **Lunch**: 4 \\times sattu paratha\n * **Dinner**: 2 \\times maggi + 3 eggs scrambled + cucumber and carrot salad\n * **Supplements**: Omega 3 (\\times1), Magnesium Glycinate (\\times1)\n### \ud83d\udcc8 Activity & Health Metrics\n * **Total Steps**: 17,308 steps (173% of your 10,000 goal).\n * **Total Distance**: 12.6\\text{ km}.\n * **Total Calories Burned**: 2,495 Cal (603 Active vs. 1,892 Resting).\n * **Heart Rate**: 50\\text{ bpm} Resting / 117\\text{ bpm} Daily High.\n * **HRV Status**: Balanced (7d Avg: 47\\text{ ms}, Overnight Avg: 50\\text{ ms}).\n   * *Watch Insight*: \"Your HRV status looks good! Your body is handling its current training load quite nicely.\"\n * **Body Battery Change**: +57 Charged.\n * **Respiration**: 15 brpm Average / 9 brpm Lowest.\n### \ud83d\udca4 Sleep Summary\n * **Sleep Score**: 70 (Fair Quality).\n * **Total Nighttime Sleep Duration**: 5\\text{h }25\\text{m}.\n * **Watch Insight**: \"Short, plenty of deep. Your sleep was short, but you had good deep sleep.\"\n * **Sleep Stages**: Deep: 1\\text{h }15\\text{m} | Light: 3\\text{h }12\\text{m} | REM: 58\\text{m} | Awake: 7\\text{m}.\n * **Avg Overnight Heart Rate**: 54\\text{ bpm}.\n### \ud83c\udfc3\u200d\u2642\ufe0f Detailed Daily Activities Log\n#### Activity 1: Strength Training \u2013 Pull Day (Morning - 08:09)\n * **Total Workout Time**: 35:21 (*Work Time*: 15:24 | *Rest Time*: 19:57).\n * **Heart Rate**: 89\\text{ bpm} Average / 123\\text{ bpm} Maximum | *Recovery HR*: 12\\text{ bpm}.\n * **Total Calories**: 145\\text{ Cal} (Active: 98 / Resting: 47).\n * **Volume Metrics**: Total Reps: 218 | Total Sets: 17 | Total Volume: 2,130\\text{ kg}.\n * **Self Evaluation**: Felt Strong | Light Perceived Effort (2/10).\n * **Exercise Set Breakdown**:\n   * **Sets 1\u20135 (Dumbbell Deadlift)**: 5 sets starting at 15 reps, shifting to 12 reps, and finishing with 12 reps @ 15.0\\text{ kg} per dumbbell.\n   * **Sets 6\u201310 (Dumbbell Row)**: 5 sets ranging from 15 down to 10 reps @ 7.5\\text{ kg} per dumbbell.\n   * **Sets 11\u201317 (Accessories)**: Mix of sit-ups, triceps extensions, push-ups, and short sets @ 7.5\\text{ kg}.\n#### Activity 2: Walking (Afternoon - 14:22)\n * **Distance**: 0.43\\text{ km}.\n * **Total Time**: 12:06.\n * **Avg Pace**: 28:06\\text{ /km}.\n * **Avg Heart Rate**: 92\\text{ bpm}.\n * **Total Calories**: 55\\text{ Cal}.\n#### Activity 3: Bengaluru Walking (Evening - 18:05)\n * **Distance**: 3.44\\text{ km}.\n * **Total Time**: 31:51.\n * **Avg Pace**: 9:16\\text{ /km} (Best Pace: 2:45\\text{ /km}).\n * **Heart Rate**: 110\\text{ bpm} Average / 123\\text{ bpm} Maximum.\n * **Cadence**: 123\\text{ spm} Average / 244\\text{ spm} Maximum.\n * **Total Calories**: 227\\text{ Cal}.\n * **Elevation**: 913\\text{ m} Min / 922\\text{ m} Max.\n * **Time in Heart Rate Zones**: Zone 2 (Easy): 17:58 (56\\%) | Zone 1 (Warm Up): 13:39 (42\\%).\n#### Activity 4: Walking (Night - 21:00)\n * **Session Tracked**: Automated timeline session logging active movement.\n\n### Entry 2"
+  },
+  {
+    "date": "2026-07-11",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": null,
+    "sleepScore": 79,
+    "sleepMin": null,
+    "steps": 15575,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": null,
+    "strengthVol": null,
+    "runs": [
+      {
+        "distance": null,
+        "avgPace": "6:40",
+        "avgPaceSec": 400,
+        "avgHr": null,
+        "maxHr": null,
+        "calories": 449,
+        "time": "40:06",
+        "laps": [
+          {
+            "n": 1,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 2,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 3,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 4,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 5,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 6,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 7,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          }
+        ]
+      }
+    ],
+    "raw": "Here is your complete, fully integrated Master Summary for **Saturday, July 11, 2026**, combining your comprehensive metric tracking, running dynamics, and nutrition logs into one clean blueprint:\n### \ud83c\udf7d\ufe0f Diet & Supplementation\n * **Breakfast:** 1 dosa, 1 idli with sambar\n * **Lunch:** Rice and mushroom Thai curry (1.5 servings)\n * **Dinner:** Burrito salad bowl with peri peri potatoes and mushrooms\n * **Supplements:** Omega 3 (\\times1), Magnesium Glycinate (\\times1)\n### \ud83d\udcc8 Activity & Health Metrics\n * **Total Steps:** 15,575 steps (155% of your 10,000 goal, achieving an elite **188-Day Goal Streak!**)\n * **Total Distance:** 11.9\\text{ km}\n * **Total Calories Burned:** 2,443 Cal (558 Active vs. 1,885 Resting)\n * **Heart Rate Baseline:** 47\\text{ bpm} Resting / 162\\text{ bpm} Daily High\n * **HRV Status:** Balanced (7d Avg: 47\\text{ ms}, Overnight Avg: 44\\text{ ms})\n   * *Watch Insight:* Last night\u2019s HRV was lower than usual. While it\u2019s normal for HRV to vary from day to day, you may want to take it easy today if you feel tired.\n * **Body Battery:** Change of +67 Charged\n * **Respiration:** 15 brpm Average / 10 brpm Lowest\n### \ud83d\udca4 Sleep & Recovery Summary\n * **Sleep Score:** 79 (Good Quality)\n * **Total Nighttime Sleep Duration:** 6\\text{h }35\\text{m}\n * **Watch Insight:** \"Shorter than ideal, plenty of deep. Your sleep was a bit short, but you had good deep sleep. The timing of your sleep was perfect based on your recent sleep patterns.\"\n * **Sleep Stages:** Deep: 2\\text{h }17\\text{m} | Light: 2\\text{h }49\\text{m} | REM: 1\\text{h }29\\text{m} | Awake: 13\\text{m}\n * **Avg Overnight Heart Rate:** 52\\text{ bpm}\n#### \ud83d\udecc Daytime Nap\n * **Duration:** 1\\text{h }35\\text{m} (Logged at 14:22)\n * **Watch Insight:** \"The timing of your nap was ideal. However, it was longer than recommended, so you may feel a little disoriented or groggy afterward. To optimize your naps, aim to be asleep for 30 minutes or less.\"\n### \ud83c\udfc3\u200d\u2642\ufe0f Detailed Daily Activities Log\n#### Activity 1: Walking (Morning)\n * **Duration:** 10:00 logged session.\n#### Activity 2: Walking (Afternoon)\n * **Duration:** 15:00 logged session.\n#### Activity 3: Bengaluru Running (Evening - 19:42)\n * **Distance:** 6.02\\text{ km}\n * **Total Time:** 40:06 (Lap summary reads 40:06.0)\n * **Avg Pace:** 6:40\\text{ /km} (Best Pace: 4:25\\text{ /km})\n * **Heart Rate:** 140\\text{ bpm} Average / 168\\text{ bpm} Maximum\n * **Run Cadence:** 175\\text{ spm} Average / 183\\text{ spm} Maximum\n * **Total Calories:** 449\\text{ Cal}\n * **Avg Ground Contact Time (GCT):** 259\\text{ ms}\n * **Avg Stride Length:** 0.89\\text{ m}\n * **Vertical Oscillation:** 8.0\\text{ cm} Average\n * **Vertical Ratio:** 9.1\\% Average\n * **Elevation:** 913\\text{ m} Minimum / 920\\text{ m} Maximum\n * **Avg Power:** 259\\text{ W} (Max Power: 425\\text{ W}, Max W/kg: 6.08)\n * **Time in Heart Rate Zones:** Zone 4 (Threshold): 23:54 (60\\%), Zone 3 (Aerobic): 11:32 (29\\%), Zone 2 (Easy): 4:19 (11\\%), Zone 5 (Maximum): 0:11 (0\\%), Zone 1 (Warm Up): 0:10 (0\\%)\n * **Lap Splits:**\n   * **Lap 1:** 1.00\\text{ km} | 7:21.7 | 7:22\\text{ avg pace} (7:16 moving) | 122\\text{ avg HR} | 132\\text{ max HR} | 168\\text{ avg cadence} | 240\\text{ W avg power} | 331\\text{ W max power} | 69\\text{ Cal}\n   * **Lap 2:** 1.00\\text{ km} | 7:19.9 | 7:20\\text{ avg pace} (7:19 moving) | 132\\text{ avg HR} | 136\\text{ max HR} | 177\\text{ avg cadence} | 238\\text{ W avg power} | 380\\text{ W max power} | 76\\text{ Cal}\n   * **Lap 3:** 1.00\\text{ km} | 6:50.1 | 6:50\\text{ avg pace} (6:50 moving) | 138\\text{ avg HR} | 143\\text{ max HR} | 178\\text{ avg cadence} | 249\\text{ W avg power} | 335\\text{ W max power} | 77\\text{ Cal}\n   * **Lap 4:** 1.00\\text{ km} | 6:23.2 | 6:23\\text{ avg pace} (6:23 moving) | 145\\text{ avg HR} | 149\\text{ max HR} | 178\\text{ avg cadence} | 263\\text{ W avg power} | 395\\text{ W max power} | 75\\text{ Cal}\n   * **Lap 5:** 1.00\\text{ km} | 6:06.4 | 6:06\\text{ avg pace} (6:06 moving) | 151\\text{ avg HR} | 153\\text{ max HR} | 175\\text{ avg cadence} | 280\\text{ W avg power} | 415\\text{ W max power} | 75\\text{ Cal}\n   * **Lap 6:** 1.00\\text{ km} | 5:57.2 | 5:57\\text{ avg pace} (5:57 moving) | 158\\text{ avg HR} | 166\\text{ max HR} | 174\\text{ avg cadence} | 294\\text{ W avg power} | 425\\text{ W max power} | 76\\text{ Cal}\n   * **Lap 7:** 0.02\\text{ km} | 0:07.5 | 6:30\\text{ avg pace} (6:04 moving) | 167\\text{ avg HR} | 168\\text{ max HR} | 157\\text{ avg cadence} | 312\\text{ W avg power} | 383\\text{ W max power} | 2\\text{ Cal}\n\n\n## 2026-07-12\n\n### Entry 1"
+  },
+  {
+    "date": "2026-07-12",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": null,
+    "sleepScore": 71,
+    "sleepMin": null,
+    "steps": 16150,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": null,
+    "strengthVol": null,
+    "runs": [],
+    "raw": "Here is your fully updated, comprehensive Master Summary for **Sunday, July 12, 2026**, integrating your newly provided meal logs, supplement routine, and the hyper-detailed metrics for your 3.26\\text{ km} evening walk:\n### \ud83c\udf7d\ufe0f Diet & Supplementation\n * **Breakfast:** 3 eggs omelette + papaya\n * **Lunch:** Butter paneer wrap with some fries\n * **Dinner:** 3 eggs omelette + cucumber and carrot salad\n * **Supplements Taken:** Omega 3 (\\times1), Magnesium Glycinate (\\times1)\n### \ud83d\udcc8 Activity & Health Metrics\n * **Total Steps:** 16,150 steps (161% of your 10,000 goal, achieving an elite **189-Day Goal Streak!**)\n * **Total Distance:** 11.7\\text{ km}\n * **Total Calories Burned:** 2,380 Cal (637 Active vs. 1,743 Resting)\n * **Heart Rate Baseline:** 48\\text{ bpm} Resting / 126\\text{ bpm} Daily High\n * **HRV Status:** Balanced (7d Avg: 47\\text{ ms}, Overnight Avg: 47\\text{ ms})\n * **Body Battery:** Change of +67 Charged\n * **Respiration:** 15 brpm Average / 10 brpm Lowest\n### \ud83d\udca4 Sleep & Recovery Summary\n * **Sleep Score:** 71 (Fair Quality)\n * **Total Nighttime Sleep Duration:** 5\\text{h }33\\text{m}\n * **Sleep Stages:** Deep: 1\\text{h }29\\text{m} | Light: 3\\text{h }1\\text{m} | REM: 1\\text{h }3\\text{m} | Awake: 14\\text{m}\n * **Avg Overnight Heart Rate:** 53\\text{ bpm}\n#### \ud83d\udecc Daytime Nap\n * **Duration:** 1\\text{h }38\\text{m} (Logged at 15:16)\n### \ud83c\udfc3\u200d\u2642\ufe0f Detailed Daily Activities Log\n#### Activity 1: Strength Training \u2013 Dumbbell Body Makeover (Afternoon - 12:32)\n * **Total Workout Time:** 36:11 (*Work Time:* 21:02 | *Rest Time:* 14:44)\n * **Heart Rate:** 108\\text{ bpm} Average / 149\\text{ bpm} Maximum\n * **Training Effect Primary Benefit:** Base (Low Aerobic)\n * **Total Calories:** 222\\text{ Cal} (Active: 174 / Resting: 48)\n * **Volume Metrics:** Total Reps: 296 | Total Sets: 23 | Total Volume: 1,905\\text{ kg}\n * **Self Evaluation:** Felt Strong | Light Perceived Effort (2/10)\n * **Exercise Set Breakdown:** 4 sets of bodyweight squats (20\\text{ reps}), 4 sets of barbell deadlifts (12\\text{ reps} @ 15.0\\text{ kg}), 4 sets of dumbbell rows (mix of 8 and 10\\text{ reps} @ 15.0\\text{ kg}), 4 sets of bodyweight push-ups, 3 sets of weighted crunches (15\\text{ reps} @ 7.5\\text{ kg}), and 3 sets of triceps extensions (15\\text{ reps} @ 7.5\\text{ kg}).\n#### Activity 2: Bengaluru Walking (Evening - 18:07)\n * **Distance:** 3.26\\text{ km}\n * **Total Time:** 27:59 (Lap summary reads 27:59.3)\n * **Avg Pace:** 8:35\\text{ /km} (Best Pace: 4:15\\text{ /km})\n * **Heart Rate:** 118\\text{ bpm} Average / 132\\text{ bpm} Maximum\n * **Cadence:** 127\\text{ spm} Average / 250\\text{ spm} Maximum\n * **Total Calories:** 214\\text{ Cal}\n * **Elevation:** 916\\text{ m} Minimum / 923\\text{ m} Maximum\n * **Time in Heart Rate Zones:** Zone 2 (Easy): 24:31 (87\\%), Zone 1 (Warm Up): 2:50 (10\\%), Zone 3 (Aerobic): 0:31 (1\\%)\n * **Lap Splits:**\n   * **Lap 1:** 1.00\\text{ km} | 9:00.1 | 9:00\\text{ avg pace} | 6.7\\text{ km/h avg speed} | 113\\text{ avg HR} | 128\\text{ max HR} | 126\\text{ avg cadence} | 65\\text{ Cal}\n   * **Lap 2:** 1.00\\text{ km} | 8:25.3 | 8:25\\text{ avg pace} | 7.1\\text{ km/h avg speed} | 120\\text{ avg HR} | 130\\text{ max HR} | 128\\text{ avg cadence} | 65\\text{ Cal}\n   * **Lap 3:** 1.00\\text{ km} | 8:29.3 | 8:29\\text{ avg pace} | 7.1\\text{ km/h avg speed} | 120\\text{ avg HR} | 126\\text{ max HR} | 129\\text{ avg cadence} | 67\\text{ Cal}\n   * **Lap 4:** 0.26\\text{ km} | 2:04.6 | 7:57\\text{ avg pace} | 7.5\\text{ km/h avg speed} | 124\\text{ avg HR} | 132\\text{ max HR} | 129\\text{ avg cadence} | 17\\text{ Cal}\n#### Activity 3: Secondary Walking Sessions (Timeline Blocks)\n * Additional short walking windows (15:00, 16:00, and 10:00 duration) scattered throughout the day.\nClosing out an incredible 189 days straight on your step goal is an amazing milestone. Your evening walk shows an exceptionally steady cardiovascular response, with your heart rate remaining firmly locked in your easy Zone 2 recovery window for nearly the entire duration.\n\n## 2026-07-13\n\n### Entry 1"
+  },
+  {
+    "date": "2026-07-13",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": null,
+    "sleepScore": 80,
+    "sleepMin": null,
+    "steps": 15424,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": null,
+    "strengthVol": null,
+    "runs": [],
+    "raw": "### Monday, July 13, 2026 Master Summary\nThe milestone is official\u2014**190 days straight** hitting your movement target! Your body battery charged up beautifully by +67 points overnight, and your tracking devices confirm your nervous system handled today's intensive, 37-set lifting block perfectly.\nHere is the complete, fully integrated breakdown of your nutrition, recovery, and workout dynamics:\n### \ud83c\udf7d\ufe0f Diet & Supplementation\n * **Breakfast:** 3 eggs omelette + 5 idlis\n * **Lunch:** *Skipped*\n * **Dinner:** 2 egg mayonnaise sandwiches\n * **Supplements:** Omega 3 (\\times1), Magnesium Glycinate (\\times1)\n### \ud83d\udcc8 Activity & Health Metrics\n * **Total Steps:** 15,424 steps (154% of your 10,000 goal, achieving an elite **190-Day Goal Streak!**)\n * **Total Distance:** 12.1\\text{ km}\n * **Total Calories Burned:** 2,690 Cal (848\\text{ Active} vs. 1,842\\text{ Resting})\n * **Heart Rate Baseline:** 48\\text{ bpm} Resting / 137\\text{ bpm} Daily High *(Workout charts show momentary spikes up to 143\\text{ bpm})*\n * **HRV Status:** Balanced (7d Avg: 47\\text{ ms}, Overnight Avg: 46\\text{ ms})\n   * *Watch Insight:* \"Excellent! Keeping your HRV status balanced with both training and recovery can lead to improved overall health.\"\n * **Respiration:** 15\\text{ brpm} Average / 11\\text{ brpm} Lowest\n### \ud83d\udca4 Sleep Summary\n * **Sleep Score:** 80 (Good Quality)\n * **Total Nighttime Sleep Duration:** 6\\text{h }25\\text{m}\n * **Watch Insight:** \"Shorter than ideal, restorative. Your sleep was a bit short, but your body recharged well. You rested late in the day yesterday, and that helped set you up for good sleep.\"\n * **Sleep Stages:** Deep: 59\\text{m} | Light: 4\\text{h }8\\text{m} | REM: 1\\text{h }18\\text{m} | Awake: 15\\text{m}\n * **Avg Overnight Heart Rate:** 51\\text{ bpm}\n### \ud83c\udfcb\ufe0f\u200d\u2642\ufe0f Detailed Daily Activities Log\n#### Activity 1: Walking (Morning - 09:13)\n * **Distance:** 2.05\\text{ km}\n * **Total Time:** 15:18 (Lap details state 15:18.4)\n * **Avg Pace:** 7:27\\text{ /km} (Best Pace: 5:48\\text{ /km})\n * **Heart Rate:** 127\\text{ bpm} Average / 142\\text{ bpm} Maximum\n * **Cadence:** 131\\text{ spm} Average / 146\\text{ spm} Maximum\n * **Total Calories:** 129\\text{ Cal}\n * **Elevation:** 861\\text{ m} Minimum / 866\\text{ m} Maximum\n * **Workout Benefit:** Recovery (Low Aerobic)\n * **Time in Heart Rate Zones:** Zone 3 (Aerobic): 7:27 (48\\%), Zone 2 (Easy): 6:53 (44\\%), Zone 1 (Warm Up): 0:59 (6\\%)\n * **Lap Splits:**\n   * **Lap 1:** 1.00\\text{ km} | 7:40.2 | 122\\text{ avg HR} | 132\\text{ max HR} | 125\\text{ avg cadence} | 60\\text{ Cal}\n   * **Lap 2:** 1.00\\text{ km} | 7:03.4 | 134\\text{ avg HR} | 142\\text{ max HR} | 135\\text{ avg cadence} | 64\\text{ Cal}\n   * **Lap 3:** 0.05\\text{ km} | 0:34.8 | 129\\text{ avg HR} | 134\\text{ max HR} | 111\\text{ avg cadence} | 5\\text{ Cal}\n#### Activity 2: Strength Training \u2013 Push Day 5x10 @ 60% (Afternoon - 17:03)\n * **Total Workout Time:** 1:14:35\n   * *Work Time:* 37:35 | *Rest Time:* 37:00\n * **Heart Rate:** 96\\text{ bpm} Average / 143\\text{ bpm} Maximum\n * **Training Effect Primary Benefit:** Anaerobic Capacity (Anaerobic)\n * **Total Calories:** 339\\text{ Cal} (241\\text{ Active} / 98\\text{ Resting})\n * **Volume Metrics:** Total Reps: 279 | Total Sets: 37 | Total Volume: 3,225\\text{ kg} | Est. Sweat Loss: 776\\text{ ml}\n * **Self Evaluation:** Felt Strong | Light Perceived Effort (2 / 10)\n * **Time in Heart Rate Zones:** Zone 1 (Warm Up): 35:33 (47\\%), Zone 2 (Easy): 8:42 (11\\%), Zone 3 (Aerobic): 1:00 (1\\%)\n * **Exercise Set Breakdown:**\n   * **Sets 1\u20134 (Warm-up / Mobility):** Cardio (3:07), Joint Mobility (0:10), Thoracic Rotation (0:53), Falsam Stretch (0:45)\n   * **Sets 5\u20139 (Activation):** Push-up (10\\text{ reps}), Shoulder Circles (0:47), Orthoped Stretch (0:23), Joint Mobility (0:07), Banded Pull Apart (10\\text{ reps})\n   * **Sets 10\u201316 (Dumbbell Bench Press):** 7 sets of 10\\text{ reps} @ 15.0\\text{ kg} per dumbbell\n   * **Sets 17\u201319 (Overhead DB Triceps Extension):** 3 sets of 10\\text{ reps} @ 7.5\\text{ kg}\n   * **Sets 20\u201322 (Dumbbell Fly):** 3 sets of 10\\text{ reps} @ 15.0\\text{ kg}\n   * **Sets 23\u201327 (Overhead Dumbbell Press):** 5 sets of 10\\text{ reps} @ 15.0\\text{ kg} per dumbbell\n   * **Set 28 (Overhead DB Press - Volume Check):** 1 set of 6\\text{ reps} @ bodyweight/unweighted transition\n   * **Sets 29\u201332 (Dumbbell Lateral Raise):** 4 sets of 10\\text{ reps} @ 15.0\\text{ kg} per dumbbell\n   * **Sets 33\u201335 (Dumbbell Chop):** 3 sets of 10\\text{ reps} @ 7.5\\text{ kg}\n   * **Sets 36\u201337 (Cooldown):** Cardio (5:00), Rebounds (0\\text{ reps} @ 7.5\\text{ kg})\n#### Activity 3: Walking (Timeline - 16:46)\n * **Distance:** 2.02\\text{ km}\n * **Total Time:** 16:46 (Lap details state 16:46.2)\n * **Avg Pace:** 8:18\\text{ /km} (Best Pace: 6:17\\text{ /km})\n * **Heart Rate:** 107\\text{ bpm} Average / 119\\text{ bpm} Maximum\n * **Cadence:** 129\\text{ spm} Average / 146\\text{ spm} Maximum\n * **Total Calories:** 116\\text{ Cal}\n * **Lap Splits:**\n   * **Lap 1:** 1.00\\text{ km} | 8:53.9 | 102\\text{ avg HR} | 117\\text{ max HR} | 125\\text{ avg cadence} | 57\\text{ Cal}\n   * **Lap 2:** 1.00\\text{ km} | 7:42.1 | 113\\text{ avg HR} | 118\\text{ max HR} | 135\\text{ avg cadence} | 58\\text{ Cal}\n   * **Lap 3:** 0.02\\text{ km} | 0:10.2 | 118\\text{ avg HR} | 119\\text{ max HR} | 111\\text{ avg cadence} | 1\\text{ Cal}\n#### Activity 4: Bengaluru Walking (Evening - 19:05)\n * **Distance:** 1.04\\text{ km}\n * **Total Time:** 8:41\n * **Avg Pace:** 8:22\\text{ /km}\n * **Avg Heart Rate:** 112\\text{ bpm}\n * **Total Calories:** 64\\text{ Cal}\nToday's structural volume was exceptionally clean. You pushed over 3,200\\text{ kg} of total weight during that 37-set structural block, triggering a strong primary training effect for **Anaerobic Capacity**. Because you kept your resting intervals exactly managed (37:35\\text{ work} vs. 37:00\\text{ rest}), you were able to execute all 7 sets of dumbbell bench presses and 5 sets of overhead pressing cleanly at 15\\text{ kg} without hitting sudden exhaustion.\n\n---\n\n## 2026-07-14\n\n### Entry 1"
+  },
+  {
+    "date": "2026-07-14",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": null,
+    "sleepScore": 67,
+    "sleepMin": null,
+    "steps": 12176,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": null,
+    "strengthVol": null,
+    "runs": [
+      {
+        "distance": null,
+        "avgPace": "6:32",
+        "avgPaceSec": 392,
+        "avgHr": null,
+        "maxHr": null,
+        "calories": 469,
+        "time": "40:21",
+        "laps": [
+          {
+            "n": 1,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 2,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 3,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 4,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 5,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 6,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          }
+        ]
+      }
+    ],
+    "raw": "### Tuesday, July 14, 2026 Master Summary\nCongratulations on hitting a phenomenal milestone\u2014**190 days straight** on your movement target! Your overnight recovery metrics remained completely stable, and your tracking devices show your cardiorespiratory system handled tonight's progressive 6.17\\text{ km} run beautifully.\nHere is your completed, fully integrated summary for today, containing your logged meals, core tracker statistics, and your evening running dynamics filtered to exclude laps 7 and 8 as requested:\n### \ud83c\udf7d\ufe0f Diet & Supplementation\n * **Breakfast:** 3 eggs omelette + 3 idlis\n * **Lunch:** *Skipped*\n * **Dinner:** 2 egg bhurji + paneer bhurji (1 serving) + cucumber and carrot salad\n * **Supplements Taken:** Omega 3 (\\times1), Magnesium Glycinate (\\times1)\n### \ud83d\udcc8 Activity & Health Metrics\n * **Total Steps:** 12,176 steps (121% of your 10,000 goal, securing an elite **191-Day Goal Streak!**)\n * **Total Distance:** 10.3\\text{ km}\n * **Total Calories Burned:** 2,391 Cal (597\\text{ Active} vs. 1,794\\text{ Resting})\n * **Heart Rate:** 51\\text{ bpm} Resting / 167\\text{ bpm} Daily High *(Workout metrics show peak exertion hitting 171\\text{ bpm})*\n * **HRV Status:** Balanced (7d Avg: 47\\text{ ms}, Overnight Avg: 47\\text{ ms})\n   * *Watch Insight:* \"Your HRV looks good! Balanced HRV status indicates that your training load and recovery are in symmetry.\"\n * **Body Battery:** Change of +43 Charged overnight\n * **Respiration:** 16\\text{ brpm} Average / 11\\text{ brpm} Lowest\n### \ud83d\udca4 Sleep Summary\n * **Sleep Score:** 67 (Fair Quality)\n * **Total Nighttime Sleep Duration:** 5\\text{h }20\\text{m}\n * **Watch Insight:** \"Short, plenty of deep. Your sleep was short, but you had good deep sleep. Your activity yesterday helped your sleep quality. Being active early in the day, especially outdoors, tunes your body clock and helps you sleep more deeply.\"\n * **Sleep Stages:** Deep: 1\\text{h }5\\text{m} | Light: 3\\text{h }23\\text{m} | REM: 52\\text{m} | Awake: 19\\text{m}\n * **Avg Overnight Heart Rate:** 54\\text{ bpm}\n### \ud83c\udfc3\u200d\u2642\ufe0f Detailed Daily Activities Log\n#### Activity 1: Walking (Morning - 08:24)\n * **Distance:** 1.05\\text{ km}\n * **Total Time:** 8:56\n * **Avg Pace:** 8:29\\text{ /km}\n * **Avg Heart Rate:** 105\\text{ bpm}\n * **Total Calories:** 58\\text{ Cal}\n#### Activity 2: Bengaluru Running (Evening - 18:55)\n * **Distance:** 6.17\\text{ km}\n * **Total Time:** 40:21\n * **Avg Pace:** 6:32\\text{ /km} (Best Pace: 3:58\\text{ /km})\n * **Heart Rate:** 144\\text{ bpm} Average / 171\\text{ bpm} Maximum\n * **Run Cadence:** 171\\text{ spm} Average / 182\\text{ spm} Maximum\n * **Total Calories:** 469\\text{ Cal}\n * **Avg Ground Contact Time (GCT):** 260\\text{ ms}\n * **Avg Stride Length:** 0.93\\text{ m}\n * **Vertical Oscillation:** 8.2\\text{ cm} Average\n * **Vertical Ratio:** 8.8\\% Average\n * **Elevation:** 920\\text{ m} Minimum / 929\\text{ m} Maximum\n * **Avg Power:** 267\\text{ W} (Max Power: 464\\text{ W}, Max W/kg: 6.64)\n * **Time in Heart Rate Zones:** Zone 4 (Threshold): 14:35 (36\\%), Zone 3 (Aerobic): 13:21 (33\\%), Zone 2 (Easy): 9:16 (23\\%), Zone 5 (Maximum): 2:21 (5\\%), Zone 1 (Warm Up): 0:38 (1\\%)\n * **Lap Splits (Laps 1\u20136):**\n   * **Lap 1:** 1.00\\text{ km} | 6:33.3 | 6:33\\text{ avg pace} | 133\\text{ avg HR} | 146\\text{ max HR} | 168\\text{ avg cadence} | 253\\text{ W avg power} | 331\\text{ W max power} | 71\\text{ Cal}\n   * **Lap 2:** 1.00\\text{ km} | 6:57.3 | 6:57\\text{ avg pace} | 139\\text{ avg HR} | 145\\text{ max HR} | 177\\text{ avg cadence} | 255\\text{ W avg power} | 464\\text{ W max power} | 79\\text{ Cal}\n   * **Lap 3:** 1.00\\text{ km} | 6:49.9 | 6:50\\text{ avg pace} | 143\\text{ avg HR} | 148\\text{ max HR} | 176\\text{ avg cadence} | 263\\text{ W avg power} | 365\\text{ W max power} | 78\\text{ Cal}\n   * **Lap 4:** 1.00\\text{ km} | 6:32.7 | 6:33\\text{ avg pace} | 144\\text{ avg HR} | 149\\text{ max HR} | 177\\text{ avg cadence} | 261\\text{ W avg power} | 391\\text{ W max power} | 76\\text{ Cal}\n   * **Lap 5:** 1.00\\text{ km} | 5:59.3 | 5:59\\text{ avg pace} | 155\\text{ avg HR} | 168\\text{ max HR} | 176\\text{ avg cadence} | 290\\text{ W avg power} | 369\\text{ W max power} | 75\\text{ Cal}\n   * **Lap 6:** 1.00\\text{ km} | 5:35.8 | 5:36\\text{ avg pace} | 155\\text{ avg HR} | 171\\text{ max HR} | 170\\text{ avg cadence} | 319\\text{ W avg power} | 404\\text{ W max power} | 72\\text{ Cal}\nYour core aerobic breakdown shows a spectacular progression on the trail today. Looking at your filtered metrics, your average running power smoothly stepped up from 253\\text{ W} in Lap 1 to an intense 319\\text{ W} during Lap 6, slicing your pace down from 6:33\\text{ /km} directly down to 5:36\\text{ /km}. Your biomechanics adjusted smoothly during this acceleration window\u2014your stride length extended naturally from 0.91\\text{ m} to a wide 1.10\\text{ m} on that final fast split while keeping your ground contact time perfectly crisp at 248\\text{ ms}.\n\n\n## 2026-07-15\n\n### Entry 1"
+  },
+  {
+    "date": "2026-07-15",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": null,
+    "sleepScore": 71,
+    "sleepMin": null,
+    "steps": 12884,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": null,
+    "strengthVol": null,
+    "runs": [],
+    "raw": "### Wednesday, July 15, 2026 Master Summary\nWith these final pieces of data, your log for today is officially complete! Your 192-day goal streak stands strong, and your nutrition logs show a solid, intentional protein focus to balance out your 24-set weight training session.\nHere is your final, comprehensive daily summary:\n### \ud83c\udf7d\ufe0f Diet & Supplementation\n * **Breakfast:** 3 eggs omelette + 2 masala idlis\n * **Lunch:** High-protein fried rice + gravy\n * **Dinner:** Cucumber and carrot salad + dal\n * **Supplements Taken:** Omega 3 (\\times1), Magnesium Glycinate (\\times1)\n### \ud83d\udcc8 Activity & Health Metrics\n * **Total Steps:** 12,884 steps (128% of your 10,000 goal, cementing your **192-Day Streak!**)\n * **Total Distance:** 10.2\\text{ km}\n * **Total Calories Burned:** 2,402 Cal (599\\text{ Active} vs. 1,803\\text{ Resting})\n * **Heart Rate Baseline:** 49\\text{ bpm} Resting / 127\\text{ bpm} Daily High *(Lifting charts note brief cardiovascular peaks up to 141\\text{ bpm})*\n * **HRV Status:** Balanced (7d Avg: 47\\text{ ms}, Overnight Avg: 51\\text{ ms})\n * **Body Battery:** Change of +67 Charged overnight\n * **Respiration:** 15\\text{ brpm} Average / 11\\text{ brpm} Lowest\n### \ud83d\udca4 Sleep Summary\n * **Sleep Score:** 71 (Fair Quality)\n * **Total Nighttime Sleep Duration:** 6\\text{h }6\\text{m}\n * **Sleep Stages:** Deep: 1\\text{h }41\\text{m} | Light: 3\\text{h }52\\text{m} | REM: 33\\text{m} | Awake: 19\\text{m}\n * **Avg Overnight Heart Rate:** 53\\text{ bpm}\n### \ud83c\udfc3\u200d\u2642\ufe0f Detailed Daily Activities Log\n#### Activity 1: Walking (Morning - 08:17)\n * **Distance:** 2.02\\text{ km} | **Total Time:** 16:39 | **Avg Pace:** 8:15\\text{ /km} | **Avg HR:** 108\\text{ bpm} | **Calories:** 106\\text{ Cal}\n * **Workout Benefit:** Recovery (Low Aerobic)\n#### Activity 2: Bengaluru Walking (Afternoon - 13:35)\n * **Distance:** 0.91\\text{ km} | **Total Time:** 14:48 | **Avg Pace:** 16:18\\text{ /km} | **Avg HR:** 86\\text{ bpm} | **Calories:** 62\\text{ Cal}\n#### Activity 3: Strength Training \u2013 Pull Day 5x10 @ 60% (Evening - 18:15)\n * **Total Workout Time:** 38:17 (*Work Time:* 18:43 | *Rest Time:* 19:34)\n * **Heart Rate:** 107\\text{ bpm} Average / 141\\text{ bpm} Maximum\n * **Total Calories:** 237\\text{ Cal} (186\\text{ Active} / 51\\text{ Resting})\n * **Volume Metrics:** Total Reps: 197 | Total Sets: 24 | Total Volume: 2,338\\text{ kg} | Est. Sweat Loss: 446\\text{ ml}\n * **Exercise Set Breakdown:** 5 sets of dumbbell deadlifts (10\\text{ reps} @ 15.0\\text{ kg}), 2 sets of dumbbell front squats (10\\text{ reps} @ 15.0\\text{ kg}), 3 sets of DB single-leg deadlift to rows (10\\text{ reps} @ 15.0\\text{ kg}), 6 sets of light dumbbell rows (10\\text{-}12\\text{ reps} @ 7.5\\text{ kg}), and 3 sets of incline reverse flies (10\\text{ reps} up to 15.0\\text{ kg}).\n#### Activity 4: Bengaluru Walking (Night - 19:12)\n * **Distance:** 2.34\\text{ km}\n * **Total Time:** 25:00 (Lap summary reads 25:00.1)\n * **Avg Pace:** 10:41\\text{ /km} (Best Pace: 3:39\\text{ /km})\n * **Heart Rate:** 114\\text{ bpm} Average / 126\\text{ bpm} Maximum\n * **Cadence:** 114\\text{ spm} Average / 250\\text{ spm} Maximum\n * **Total Calories:** 172\\text{ Cal}\n * **Elevation:** 907\\text{ m} Minimum / 911\\text{ m} Maximum\n * **Time in Heart Rate Zones:** Zone 2 (Easy): 20:11 (80\\%) | Zone 1 (Warm Up): 4:49 (19\\%)\n * **Lap Splits:**\n   * **Lap 1:** 1.00\\text{ km} | 7:48.3 | 7:48\\text{ avg pace} | 7.7\\text{ km/h avg speed} | 115\\text{ avg HR} | 126\\text{ max HR} | 127\\text{ avg cadence} | 53\\text{ Cal}\n   * **Lap 2:** 1.00\\text{ km} | 12:38.3 | 12:38\\text{ avg pace} | 4.7\\text{ km/h avg speed} | 114\\text{ avg HR} | 123\\text{ max HR} | 109\\text{ avg cadence} | 89\\text{ Cal}\n   * **Lap 3:** 0.34\\text{ km} | 4:33.5 | 13:19\\text{ avg pace} | 4.5\\text{ km/h avg speed} | 110\\text{ avg HR} | 116\\text{ max HR} | 108\\text{ avg cadence} | 30\\text{ Cal}\n\n---\n\n## 2026-07-17\n\n### Entry 1"
+  },
+  {
+    "date": "2026-07-16",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": null,
+    "sleepScore": 70,
+    "sleepMin": null,
+    "steps": 16746,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": null,
+    "strengthVol": null,
+    "runs": [
+      {
+        "distance": null,
+        "avgPace": "6:30",
+        "avgPaceSec": 390,
+        "avgHr": null,
+        "maxHr": null,
+        "calories": 458,
+        "time": "39:11",
+        "laps": [
+          {
+            "n": 1,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 2,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 3,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 4,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 5,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 6,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          }
+        ]
+      }
+    ],
+    "raw": "### Thursday, July 16, 2026 Master Summary\nThe streak continues to climb\u2014you have officially unlocked an incredible **193-Day Goal Streak**! Your autonomic nervous system remains remarkably resilient, keeping your overnight HRV perfectly balanced even with a shorter sleep duration.\n\n### \ud83c\udf7d\ufe0f Diet & Supplementation\n * **Breakfast:** 3 eggs omelette + 2 idlis + poha and sabzi\n * **Lunch:** *Skipped*\n * **Dinner:** 3 eggs bhurji + cucumber and carrot salad\n * **Supplements Taken:** Omega 3 (\\times1), Magnesium Glycinate (\\times1)\n * **Historical Note:** Took monthly Vitamin D3 pill on 12th July.\n### \ud83d\udcc8 Activity & Health Metrics\n * **Total Steps:** 16,746 steps (167% of your 10,000 goal, continuing your **193-Day Streak!**)\n * **Total Distance:** 13.6\\text{ km}\n * **Total Calories Burned:** 2,654 Cal (762\\text{ Active} vs. 1,892\\text{ Resting})\n * **Heart Rate Baseline:** 51\\text{ bpm} Resting / 170\\text{ bpm} Daily High *(Workout metrics show peak exertion momentarily hitting 174\\text{ bpm})*\n * **HRV Status:** Balanced (7d Avg: 48\\text{ ms}, Overnight Avg: 48\\text{ ms})\n   * *Watch Insight:* \"Maintaining balanced HRV status like this helps both your performance and overall well-being.\"\n * **Body Battery:** Change of +54 Charged overnight\n * **Respiration:** 16\\text{ brpm} Average / 11\\text{ brpm} Lowest\n### \ud83d\udca4 Sleep Summary\n * **Sleep Score:** 70 (Fair Quality)\n * **Total Nighttime Sleep Duration:** 5\\text{h }51\\text{m}\n * **Watch Insight:** \"Shorter than ideal, plenty of deep. Your sleep was a bit short, but you had good deep sleep. The timing of your sleep was perfect based on your recent sleep patterns.\"\n * **Sleep Stages:** Deep: 1\\text{h }23\\text{m} | Light: 3\\text{h }33\\text{m} | REM: 55\\text{m} | Awake: 17\\text{m}\n * **Avg Overnight Heart Rate:** 55\\text{ bpm}\n### \ud83c\udfc3\u200d\u2642\ufe0f Detailed Daily Activities Log\n#### Activity 1: Walking (Morning - 08:25)\n * **Distance:** 1.06\\text{ km} | **Total Time:** 9:39 | **Avg Pace:** 9:05\\text{ /km} | **Avg HR:** 110\\text{ bpm} | **Calories:** 62\\text{ Cal}\n\n#### Activity 2: Bengaluru Running (Evening - 17:06)\n * **Distance:** 6.03\\text{ km}\n * **Total Time:** 39:11 (Moving time states 39:00.3)\n * **Avg Pace:** 6:30\\text{ /km} (Best Pace: 3:33\\text{ /km})\n * **Heart Rate:** 147\\text{ bpm} Average / 174\\text{ bpm} Maximum\n * **Run Cadence:** 171\\text{ spm} Average / 179\\text{ spm} Maximum\n * **Total Calories:** 458\\text{ Cal}\n * **Avg Ground Contact Time (GCT):** 262\\text{ ms}\n * **Avg Stride Length:** 0.93\\text{ m}\n * **Vertical Oscillation:** 8.4\\text{ cm} Average\n * **Vertical Ratio:** 9.1\\% Average\n * **Elevation:** 929\\text{ m} Minimum / 934\\text{ m} Maximum\n * **Avg Power:** 269\\text{ W} (Max Power: 492\\text{ W}, Max W/kg: 7.04)\n * **Time in Heart Rate Zones:** Zone 4 (Threshold): 18:24 (47\\%), Zone 3 (Aerobic): 17:21 (44\\%), Zone 2 (Easy): 1:58 (5\\%), Zone 5 (Maximum): 1:21 (3\\%), Zone 1 (Warm Up): 0:14 (1\\%)\n * **Lap Splits (Laps 1\u20136):**\n   * **Lap 1:** 1.00\\text{ km} | 7:15.5 (7:08 moving) | 7:16\\text{ avg pace} | 131\\text{ avg HR} | 143\\text{ max HR} | 165\\text{ avg cadence} | 244\\text{ W avg power} | 344\\text{ W max power} | 73\\text{ Cal}\n   * **Lap 2:** 1.00\\text{ km} | 6:56.4 (6:56 moving) | 6:56\\text{ avg pace} | 142\\text{ avg HR} | 148\\text{ max HR} | 171\\text{ avg cadence} | 250\\text{ W avg power} | 355\\text{ W max power} | 76\\text{ Cal}\n   * **Lap 3:** 1.00\\text{ km} | 6:33.3 (6:33 moving) | 6:33\\text{ avg pace} | 147\\text{ avg HR} | 152\\text{ max HR} | 173\\text{ avg cadence} | 262\\text{ W avg power} | 325\\text{ W max power} | 76\\text{ Cal}\n   * **Lap 4:** 1.00\\text{ km} | 6:35.4 (6:35 moving) | 6:35\\text{ avg pace} | 151\\text{ avg HR} | 161\\text{ max HR} | 172\\text{ avg cadence} | 269\\text{ W avg power} | 388\\text{ W max power} | 78\\text{ Cal}\n   * **Lap 5:** 1.00\\text{ km} | 5:42.8 (5:42 moving) | 5:43\\text{ avg pace} | 163\\text{ avg HR} | 174\\text{ max HR} | 173\\text{ avg cadence} | 299\\text{ W avg power} | 492\\text{ W max power} | 75\\text{ Cal}\n   * **Lap 6:** 1.00\\text{ km} | 5:53.9 (5:53 moving) | 5:54\\text{ avg pace} | 154\\text{ avg HR} | 173\\text{ max HR} | 173\\text{ avg cadence} | 299\\text{ W avg power} | 419\\text{ W max power} | 77\\text{ Cal}\n\n\n## 2026-07-18\n\n### Entry 1"
+  },
+  {
+    "date": "2026-07-17",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": null,
+    "sleepScore": 74,
+    "sleepMin": null,
+    "steps": 16220,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": null,
+    "strengthVol": null,
+    "runs": [],
+    "raw": "### Friday, July 17, 2026 Master Summary\nYour master data breakdown for Friday has been completely updated with your structural training metrics, nutritional data, and supplement log:\n#### \ud83c\udf7d\ufe0f Diet & Supplementation\n * **Breakfast:** 2 eggs omelette\n * **Lunch:** 4 parathas and sabzi\n * **Dinner:** 2 parathas and dahi\n * **Supplements:** Omega 3 (\\times1), Magnesium Glycinate (\\times1)\n#### \ud83d\udcc8 Activity & Health Metrics\n * **Total Steps:** 16,220 steps (162% of your 10,000 goal).\n * **Total Distance:** 10.8\\text{ km}.\n * **Total Calories Burned:** 2,411 Cal (519\\text{ Active} vs. 1,892\\text{ Resting}).\n * **Heart Rate Baseline:** 50\\text{ bpm} Resting / 119\\text{ bpm} Daily High *(Workout charts note immediate working peaks reaching up to 133\\text{ bpm})*.\n * **HRV Status:** Balanced (7d Avg: 48\\text{ ms}, Overnight Avg: 51\\text{ ms}).\n   * *Watch Insight:* \"Your HRV status looks good! Your body is handling its current training load quite nicely.\"\n * **Body Battery:** Change of +71 Charged overnight.\n * **Respiration:** 15\\text{ brpm} Average / 11\\text{ brpm} Lowest.\n#### \ud83d\udca4 Sleep Summary\n * **Sleep Score:** 74 (Fair Quality).\n * **Total Nighttime Sleep Duration:** 6\\text{h }40\\text{m}.\n * **Watch Insight:** \"Shorter than ideal, plenty of deep. Your sleep was a bit short, but you had good deep sleep. You had a relaxing period before getting to sleep yesterday. Those habits will help improve your sleep quality.\"\n * **Sleep Stages:** Deep: 1\\text{h }23\\text{m} | Light: 4\\text{h }16\\text{m} | REM: 1\\text{h }1\\text{m} | Awake: 39\\text{m}.\n * **Avg Overnight Heart Rate:** 53\\text{ bpm}.\n#### \ud83c\udfcb\ufe0f\u200d\u2642\ufe0f Detailed Daily Activities Log\n##### Activity 1: Strength Training \u2013 Push Day 4x10 @ 65% (Afternoon - 17:00)\n * **Total Workout Time:** 36:54\n   * *Work Time:* 20:27 | *Rest Time:* 16:27.\n * **Heart Rate:** 102\\text{ bpm} Average / 133\\text{ bpm} Maximum.\n * **Training Effect Primary Benefit:** Base (Low Aerobic).\n * **Total Calories:** 204\\text{ Cal} (155\\text{ Active} / 49\\text{ Resting}).\n * **Volume Metrics:** Total Reps: 241 | Total Sets: 26 | Total Volume: 2,708\\text{ kg} | Est. Sweat Loss: 306\\text{ ml}.\n * **Self Evaluation:** Felt Strong | Light Perceived Effort (2/10).\n * **Time in Heart Rate Zones:** Zone 1 (Warm Up): 14:40 (39\\%), Zone 2 (Easy): 10:58 (29\\%), Zone 3 (Aerobic): 0:37 (1\\%).\n * **Exercise Set Breakdown:**\n   * **Sets 1\u20136 (Dumbbell Bench Press):** 6 sets of 10\\text{ reps} @ 15.0\\text{ kg} per dumbbell.\n   * **Sets 7\u20139 (Overhead DB Triceps Extension):** 2 sets of 10\\text{ reps} and 1 set of 11\\text{ reps} @ 7.5\\text{ kg}.\n   * **Sets 10\u201312 (Dumbbell Fly):** 3 sets of 10\\text{ reps} @ 10.0\\text{ kg} per dumbbell.\n   * **Sets 13\u201316 (Overhead Dumbbell Press):** 4 sets of 10\\text{ reps} @ 15.0\\text{ kg} per dumbbell.\n   * **Set 17 (Overhead Dumbbell Press):** 1 rapid transition set @ 15.0\\text{ kg}.\n   * **Sets 18\u201320 (Dumbbell Lateral Raise):** 3 sets of 10\\text{ reps} @ 10.0\\text{ kg} per dumbbell.\n   * **Sets 21\u201323 (Dumbbell Chop):** 3 sets of 10\\text{ reps} @ 7.5\\text{ kg}.\n   * **Set 24 (Cardio):** 0:05 recovery window.\n   * **Set 25 (Weighted Bench Dip):** 1\\text{ set} of 10\\text{ reps} @ 7.5\\text{ kg}.\n   * **Set 26 (Sit-up):** Final accessory set of 10\\text{ reps} @ 7.5\\text{ kg}.\n##### Activity 2: Walking Sessions (Timeline Blocks)\n * **Morning Walk (11:30):** 0.36\\text{ km}.\n * **Afternoon Walk (12:26):** 0.45\\text{ km}.\n * **Evening Bengaluru Walk (19:02):** 1.29\\text{ km} completed over 21:01 (\\text{Avg Pace }16:16\\text{ /km}, \\text{Avg HR }82\\text{ bpm}).\n * **Night Walk (21:17):** 0.36\\text{ km} completed over 11:30 (\\text{Avg Pace }32:03\\text{ /km}, \\text{Avg HR }80\\text{ bpm}).\n * **Timeline Block:** Additional 15:00 logged walking session.\nYour lifting progression remained extremely crisp today. Increasing your load threshold slightly to 65\\% while pacing yourself efficiently enabled you to move over 2,700\\text{ kg} of master volume without spiking your working heart rate over a highly controlled 133\\text{ bpm}.\n\n\n## 2026-07-19\n\n### Entry 1"
+  },
+  {
+    "date": "2026-07-18",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": null,
+    "sleepScore": null,
+    "sleepMin": null,
+    "steps": 15876,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": null,
+    "strengthVol": null,
+    "runs": [
+      {
+        "distance": null,
+        "avgPace": "6:04",
+        "avgPaceSec": 364,
+        "avgHr": null,
+        "maxHr": null,
+        "calories": 141,
+        "time": "12:23",
+        "laps": [
+          {
+            "n": 1,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 2,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 3,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          }
+        ]
+      }
+    ],
+    "raw": "### Saturday, July 18, 2026 Master Summary\nGot it. That sleep context makes complete sense\u2014putting the watch on mid-sleep explains the truncated reading on your dashboard. Below is your fully compiled, updated blueprint for Saturday, integrating your food intake, supplements, and running dynamics:\n### \ud83c\udf7d\ufe0f Diet & Supplementation\n * **Breakfast:** 3 eggs omelette\n * **Lunch:** 7 idlis with sambar + a tiramisu\n * **Dinner:** Quesadilla with cheese and mushroom\n * **Supplements Taken:** Omega 3 (\\times1), Magnesium Glycinate (\\times1)\n### \ud83d\udcc8 Activity & Health Metrics\n * **Total Steps:** 15,876 steps (158% of your 10,000 goal, locking in an elite **194-Day Goal Streak!**)\n * **Total Distance:** 11.9\\text{ km}\n * **Total Calories Burned:** 2,335 Cal (443\\text{ Active} vs. 1,892\\text{ Resting})\n * **Heart Rate Baseline:** 51\\text{ bpm} Resting / 145\\text{ bpm} Daily High *(Workout logs show top peak hitting 152\\text{ bpm})*\n * **HRV Status:** Balanced (7d Avg: 49\\text{ ms}, Overnight Avg: 56\\text{ ms})\n   * *Watch Insight:* \"Your HRV looks good! Balanced HRV status indicates that your training load and recovery are in symmetry.\"\n * **Body Battery:** Change of +36 Charged overnight\n * **Respiration:** 15\\text{ brpm} Average / 11\\text{ brpm} Lowest\n### \ud83d\udca4 Sleep Summary (Adjusted)\n * **Actual Sleep Window:** ~11:00 PM to ~~05:44 AM (~~6\\text{h }44\\text{m} total rest window)\n * **Tracked Sleep Duration:** 4\\text{h }8\\text{m} *(Note: Watch was worn starting at 2:30 AM)*\n * **Tracked Sleep Stages:** Deep: 1\\text{h }8\\text{m} | Light: 2\\text{h }46\\text{m} | REM: 14\\text{m} | Awake: 12\\text{m}\n * **Avg Overnight Heart Rate:** 53\\text{ bpm}\n### \ud83c\udfc3\u200d\u2642\ufe0f Detailed Daily Activities Log\n#### Activity 1: Bengaluru Running (Evening - 19:05)\n * **Distance:** 2.04\\text{ km}\n * **Total Time:** 12:23 (Moving time reads 12:22.0)\n * **Avg Pace:** 6:04\\text{ /km} (Best Pace: 3:55\\text{ /km})\n * **Heart Rate:** 135\\text{ bpm} Average / 152\\text{ bpm} Maximum\n * **Run Cadence:** 166\\text{ spm} Average / 176\\text{ spm} Maximum\n * **Total Calories:** 141\\text{ Cal}\n * **Avg Ground Contact Time (GCT):** 265\\text{ ms}\n * **Avg Stride Length:** 1.02\\text{ m}\n * **Vertical Oscillation:** 8.9\\text{ cm} Average\n * **Vertical Ratio:** 9.1\\% Average\n * **Elevation:** 914\\text{ m} Minimum / 917\\text{ m} Maximum\n * **Avg Power:** 288\\text{ W} (Max Power: 498\\text{ W}, Max W/kg: 7.12)\n * **Time in Heart Rate Zones:** Zone 3 (Aerobic): 7:15 (55\\%), Zone 2 (Easy): 3:35 (27\\%), Zone 4 (Threshold): 1:20 (10\\%), Zone 1 (Warm Up): 0:25 (3\\%)\n * **Lap Splits:**\n   * **Lap 1:** 1.00\\text{ km} | 6:14.0 | 6:14\\text{ avg pace} | 125\\text{ avg HR} | 143\\text{ max HR} | 161\\text{ avg cadence} | 277\\text{ W avg power} | 408\\text{ W max power} | 73\\text{ Cal}\n   * **Lap 2:** 1.00\\text{ km} | 5:53.7 (5:53 moving) | 5:54\\text{ avg pace} | 144\\text{ avg HR} | 151\\text{ max HR} | 171\\text{ avg cadence} | 299\\text{ W avg power} | 498\\text{ W max power} | 71\\text{ Cal}\n   * **Lap 3:** 0.04\\text{ km} | 0:15.3 (0:15 moving) | 5:47\\text{ avg pace} | 152\\text{ avg HR} | 152\\text{ max HR} | 168\\text{ avg cadence} | 278\\text{ W avg power} | 294\\text{ W max power} | 3\\text{ Cal}\n#### Activity 2: Bengaluru Walking (Night - 18:29)\n * **Distance:** 1.52\\text{ km} | **Total Time:** 21:20 | **Avg Pace:** 14:00\\text{ /km} | **Avg HR:** 81\\text{ bpm} | **Calories:** 89\\text{ Cal}\n#### Activity 3: Secondary Walking Sessions (Timeline Blocks)\n * Baseline short walking blocks of 10:00 and 12:00 duration active across your daily timeline.\nDespite the watch tracking only a partial night, your cardiovascular system performed incredibly well on your short 2\\text{ km} evening burst. Your pace naturally accelerated down from 6:14\\text{ /km} to 5:54\\text{ /km} on Lap 2, and you generated a massive peak power spike of 498\\text{ W}. Given the lighter structural load of a 2\\text{ km} run, it paired beautifully as an active recovery stimulus with your higher carbohydrate intake from lunch.\n\n---\n\n## 2026-07-20\n\n### Entry 1"
+  },
+  {
+    "date": "2026-07-19",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": null,
+    "sleepScore": 62,
+    "sleepMin": null,
+    "steps": 19151,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": null,
+    "strengthVol": null,
+    "runs": [
+      {
+        "distance": null,
+        "avgPace": "6:59",
+        "avgPaceSec": 419,
+        "avgHr": null,
+        "maxHr": null,
+        "calories": 226,
+        "time": "22:30",
+        "laps": [
+          {
+            "n": 1,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 2,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 3,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          },
+          {
+            "n": 4,
+            "pace": null,
+            "paceSec": null,
+            "avgHr": null,
+            "maxHr": null,
+            "power": null,
+            "cadence": null
+          }
+        ]
+      }
+    ],
+    "raw": "### Sunday, July 19, 2026 Master Summary\nHere is your completed, fully integrated summary for Sunday, July 19, 2026. Your log combines your nutrition choices, supplement intake, core health indicators, and the complete running dynamics for your 3.23\\text{ km} evening session.\n### \ud83c\udf7d\ufe0f Diet & Supplementation\n * **Breakfast:** 1 dosa\n * **Lunch:** Rice and dal with paneer and mushroom starters\n * **Dinner:** 3 eggs cheese omelette + cucumber and carrot salad\n * **Supplements Taken:** Omega 3 (\\times1), Magnesium Glycinate (\\times1)\n### \ud83d\udcc8 Activity & Health Metrics\n * **Total Steps:** 19,151 steps (191% of your 10,000 goal\u2014an absolute step volume ceiling!).\n * **Total Distance:** 13.5\\text{ km}\n * **Total Calories Burned:** 2,382 Cal (490\\text{ Active} vs. 1,892\\text{ Resting})\n * **Heart Rate Baseline:** 49\\text{ bpm} Resting / 142\\text{ bpm} Daily High *(Workout charts note peak exertion hitting 146\\text{ bpm})*\n * **HRV Status:** Balanced (7d Avg: 50\\text{ ms}, Overnight Avg: 53\\text{ ms})\n   * *Watch Insight:* \"Balanced HRV is a sign that your body, and thus your nervous system, have had adequate time to recover.\"\n * **Body Battery:** Change of +63 Charged overnight\n * **Respiration:** 15\\text{ brpm} Average / 9\\text{ brpm} Lowest\n### \ud83d\udca4 Sleep Summary\n * **Sleep Score:** 62 (Fair Quality)\n * **Total Nighttime Sleep Duration:** 5\\text{h }1\\text{m}\n * **Watch Insight:** \"Short, unbalanced sleep stages. You slept too little, and your overall quality was low. You've had high stress days and poor sleep recently. You may feel very tired today.\"\n * **Sleep Stages:** Deep: 1\\text{h }17\\text{m} | Light: 2\\text{h }49\\text{m} | REM: 55\\text{m} | Awake: 51\\text{m}\n * **Avg Overnight Heart Rate:** 52\\text{ bpm}\n### \ud83c\udfc3\u200d\u2642\ufe0f Detailed Daily Activities Log\n#### Activity 1: Walking (Morning - 10:43)\n * **Distance:** 0.64\\text{ km} | **Total Time:** 13:53 | **Avg Pace:** 21:42\\text{ /km} | **Avg HR:** 82\\text{ bpm} | **Calories:** 49\\text{ Cal}\n#### Activity 2: Bengaluru Running (Evening - 18:06)\n * **Distance:** 3.23\\text{ km}\n * **Total Time:** 22:30 (Moving time reads 22:28.4)\n * **Avg Pace:** 6:59\\text{ /km} (Best Pace: 4:23\\text{ /km})\n * **Heart Rate:** 131\\text{ bpm} Average / 146\\text{ bpm} Maximum\n * **Run Cadence:** 168\\text{ spm} Average / 174\\text{ spm} Maximum\n * **Total Calories:** 226\\text{ Cal}\n * **Avg Ground Contact Time (GCT):** 274\\text{ ms}\n * **Avg Stride Length:** 0.86\\text{ m}\n * **Vertical Oscillation:** 8.3\\text{ cm} Average\n * **Vertical Ratio:** 9.6\\% Average\n * **Elevation:** 921\\text{ m} Minimum / 927\\text{ m} Maximum\n * **Avg Power:** 244\\text{ W} (Max Power: 477\\text{ W}, Max W/kg: 6.82)\n * **Time in Heart Rate Zones:** Zone 3 (Aerobic): 11:34 (51\\%), Zone 2 (Easy): 9:39 (43\\%), Zone 4 (Threshold): 0:22 (2\\%), Zone 1 (Warm Up): 0:21 (2\\%)\n * **Lap Splits:**\n   * **Lap 1:** 1.00\\text{ km} | 7:12.5 | 7:13\\text{ avg pace} | 119\\text{ avg HR} | 131\\text{ max HR} | 163\\text{ avg cadence} | 235\\text{ W avg power} | 451\\text{ W max power} | 65\\text{ Cal}\n   * **Lap 2:** 1.00\\text{ km} | 6:49.9 | 6:50\\text{ avg pace} | 134\\text{ avg HR} | 138\\text{ max HR} | 169\\text{ avg cadence} | 247\\text{ W avg power} | 449\\text{ W max power} | 71\\text{ Cal}\n   * **Lap 3:** 1.00\\text{ km} | 6:47.9 | 6:48\\text{ avg pace} | 139\\text{ avg HR} | 146\\text{ max HR} | 170\\text{ avg cadence} | 251\\text{ W avg power} | 477\\text{ W max power} | 74\\text{ Cal}\n   * **Lap 4:** 0.23\\text{ km} | 1:39.9 (1:38 moving) | 7:23\\text{ avg pace} | 138\\text{ avg HR} | 140\\text{ max HR} | 169\\text{ avg cadence} | 239\\text{ W avg power} | 329\\text{ W max power} | 16\\text{ Cal}\n#### Activity 3: Bengaluru Walking (Evening - 18:52)\n * **Distance:** 1.00\\text{ km} | **Total Time:** 12:47 | **Avg Pace:** 12:46\\text{ /km} | **Avg HR:** 91\\text{ bpm} | **Calories:** 61\\text{ Cal}\n#### Activity 4: Secondary Walking Sessions (Timeline Blocks)\n * Scattered timeline walking blocks of 17:00, 10:00, 10:00, and 14:00.\n\n## 2026-07-26\n\n### Entry 1"
+  },
+  {
+    "date": "2026-07-25",
+    "age": 37,
+    "weight": null,
+    "vo2": null,
+    "restingHr": null,
+    "hrv": null,
+    "sleepScore": 78,
+    "sleepMin": null,
+    "steps": 12557,
+    "activeCal": null,
+    "restingCal": null,
+    "intensityMin": null,
+    "walkKm": null,
+    "strengthVol": null,
+    "runs": [],
+    "raw": "### Saturday, July 25, 2026 Master Summary\nHere is your completed, fully integrated master summary for **Saturday, July 25, 2026**. Your weight training volume was phenomenal today, pushing over 2,800\\text{ kg} across 27 clean sets, paired with a solid 3.57\\text{ km} evening walk to round out your daily movement goals:\n### \ud83c\udf7d\ufe0f Diet & Supplementation\n * **Meals:** *Not logged / data not handy*\n * **Supplements Taken:** Omega 3 (\\times1)\n### \ud83d\udcc8 Activity & Health Metrics\n * **Total Steps:** 12,557 steps (125% of your 10,000 goal).\n * **Total Distance:** 10.4\\text{ km}.\n * **Total Calories Burned:** 2,512 Cal (620\\text{ Active} vs. 1,892\\text{ Resting}).\n * **Heart Rate Baseline:** 50\\text{ bpm} Resting / 132\\text{ bpm} Daily High *(Workout charts note localized peaks reaching up to 147\\text{ bpm} during lifting)*.\n * **HRV Status:** Balanced (7d Avg: 51\\text{ ms}, Overnight Avg: 50\\text{ ms}, Highest 5-min Avg: 97\\text{ ms}).\n   * *Watch Insight:* \"Excellent! Keeping your HRV status balanced with both training and recovery can lead to improved overall health.\"\n * **Body Battery:** Change of +62 Charged overnight.\n * **Respiration:** 16\\text{ brpm} Average / 11\\text{ brpm} Lowest.\n### \ud83d\udca4 Sleep Summary\n * **Sleep Score:** 78 (Fair Quality).\n * **Total Nighttime Sleep Duration:** 6\\text{h }58\\text{m}.\n * **Watch Insight:** \"Shorter than ideal, plenty of deep. Your sleep was a bit short, but you had good deep sleep. Sleep like this is critical for boosting your immune system and repairing your body.\"\n * **Sleep Stages:** Deep: 1\\text{h }43\\text{m} | Light: 3\\text{h }50\\text{m} | REM: 1\\text{h }25\\text{m} | Awake: 30\\text{m}.\n * **Avg Overnight Heart Rate:** 55\\text{ bpm}.\n### \ud83c\udfcb\ufe0f\u200d\u2642\ufe0f Detailed Daily Activities Log\n#### Activity 1: Strength Training \u2013 Pull Day 4x10 @ 65% (Evening - 17:11)\n * **Total Workout Time:** 1:00:05\n   * *Work Time:* 25:12 | *Rest Time:* 34:53.\n * **Heart Rate:** 105\\text{ bpm} Average / 147\\text{ bpm} Maximum.\n * **Training Effect Primary Benefit:** Base (Low Aerobic).\n * **Total Calories:** 326\\text{ Cal} (247\\text{ Active} / 79\\text{ Resting}).\n * **Volume Metrics:** Total Reps: 265 | Total Sets: 27 | Total Volume: 2,818\\text{ kg} | Est. Sweat Loss: 683\\text{ ml}.\n * **Self Evaluation:** Felt Strong | Light Perceived Effort (2/10).\n * **Time in Heart Rate Zones:** Zone 1 (Warm Up): 28:03 (46\\%), Zone 2 (Easy): 23:20 (38\\%), Zone 3 (Aerobic): 0:09 (0\\%), Zone 4 (Threshold): 0:03 (0\\%).\n * **Exercise Set Breakdown:**\n   * **Set 1 (Cardio):** 5:00 Warm-up window.\n   * **Sets 2\u20137 (Dumbbell Deadlift):** 4 sets of 10\\text{ reps} and 2 sets of 12\\text{ reps} @ 15.0\\text{ kg} per dumbbell.\n   * **Sets 8\u201310 (Dumbbell Front Squat):** 3 sets of 10\\text{ reps} @ 15.0\\text{ kg} per dumbbell.\n   * **Sets 11\u201313 (DB Single-leg Deadlift to Row):** 3 sets of 10\\text{ reps} @ 7.5\\text{ kg}.\n   * **Sets 14\u201319 (Dumbbell Row):** 3 sets of 11\\text{ reps} and 3 sets of 15\\text{ reps} @ 7.5\\text{ kg}.\n   * **Sets 20\u201322 (One-arm Bent-over Row):** 3 sets of 11\\text{ reps} @ 7.5\\text{ kg}.\n   * **Sets 23\u201325 (Incline Reverse Fly):** 1 set of 10\\text{ reps} @ 15.0\\text{ kg}, followed by 2 sets of 10\\text{ reps} @ 10.0\\text{ kg}.\n   * **Sets 26\u201327 (Cooldown):** Cardio (0:59) and final setup check (0:04).\n#### Activity 2: Bengaluru Walking (Evening - 18:30)\n * **Distance:** 3.57\\text{ km}.\n * **Total Time:** 29:36 (Lap summary reads 29:36.2).\n * **Avg Pace:** 8:18\\text{ /km} (Best Pace: 4:25\\text{ /km}).\n * **Heart Rate:** 117\\text{ bpm} Average / 137\\text{ bpm} Maximum.\n * **Cadence:** 125\\text{ spm} Average / 244\\text{ spm} Maximum.\n * **Total Calories:** 236\\text{ Cal}.\n * **Elevation:** 913\\text{ m} Minimum / 917\\text{ m} Maximum.\n * **Time in Heart Rate Zones:** Zone 2 (Easy): 24:31 (82\\%), Zone 1 (Warm Up): 2:18 (7\\%), Zone 3 (Aerobic): 2:47 (5\\%).\n * **Lap Splits:**\n   * **Lap 1:** 1.00\\text{ km} | 8:42.2 | 8:42\\text{ avg pace} | 6.9\\text{ km/h avg speed} | 111\\text{ avg HR} | 117\\text{ max HR} | 122\\text{ avg cadence} | 62\\text{ Cal}\n   * **Lap 2:** 1.00\\text{ km} | 8:22.3 | 8:22\\text{ avg pace} | 7.2\\text{ km/h avg speed} | 113\\text{ avg HR} | 119\\text{ max HR} | 124\\text{ avg cadence} | 67\\text{ Cal}\n   * **Lap 3:** 1.00\\text{ km} | 7:48.4 | 7:48\\text{ avg pace} | 7.7\\text{ km/h avg speed} | 120\\text{ avg HR} | 128\\text{ max HR} | 133\\text{ avg cadence} | 65\\text{ Cal}\n   * **Lap 4:** 0.57\\text{ km} | 4:43.3 | 8:19\\text{ avg pace} | 7.2\\text{ km/h avg speed} | 129\\text{ avg HR} | 137\\text{ max HR} | 120\\text{ avg cadence} | 41\\text{ Cal}\n#### Activity 3: Bengaluru Walking (Night - 19:02)\n * **Distance:** 0.60\\text{ km} | **Total Time:** 10:12 | **Avg Pace:** 17:06\\text{ /km} | **Avg HR:** 104\\text{ bpm} | **Calories:** 60\\text{ Cal}\nYour strength progression during this Pull session was executed with exceptional rest discipline (25:12 work time vs 34:53 rest time), allowing you to maintain perfect form across all 27 sets. Following that up with a 3.57\\text{ km} walk where you progressively picked up pace from 8:42\\text{ /km} down to 7:48\\text{ /km} on Lap 3 provided a great active recovery flush for your legs."
+  }
+]
