@@ -1,13 +1,15 @@
 {
   "generatedAt": 0,
   "latestDate": "2026-07-25",
-  "months": [
-    "2026-04",
-    "2026-05",
-    "2026-06",
-    "2026-07"
-  ],
   "profile": {
     "age": 37
-  }
+  },
+  "sources": [
+    {
+      "file": "history.json",
+      "from": "2026-04-09",
+      "to": "2026-07-25",
+      "frozen": true
+    }
+  ]
 }
